@@ -1,0 +1,1356 @@
+﻿ID,TITLE,YEAR,SOURCE,SOURCE2,SCREENPLAY_SOURCE
+0,"10,000 BC",2008,popular,box_office,simply
+1,12 Strong,2018,popular,box_office,slug
+2,12 Years a Slave,2013,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+3,127 Hours,2010,"fan_favs, popular","best_movies_lists, box_office",slug
+4,1408,2007,popular,box_office,slug
+5,15 Minutes,2001,popular,box_office,imsdb
+6,16 Blocks,2006,popular,box_office,slug
+7,17 Again,2009,popular,"box_office, popular_movies_lists",imsdb
+8,1917,2019,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, filmmakers_choice, popular_movies_lists",slug
+9,2 Fast 2 Furious,2003,"fan_favs, popular","best_movies_lists, box_office",slug
+10,2012,2009,popular,box_office,imsdb
+11,20th Century Girl,2022,fan_favs,best_movies_lists,slug
+12,20th Century Women,2016,"critics, fan_favs","best_movies_lists, filmmakers_choice, journal_list, women_directors",slug
+13,21 Jump Street,2012,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+14,22 Jump Street,2014,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+15,25th Hour,2002,"critics, fan_favs","best_movies_lists, journal_list",savant
+16,28 Days,2000,"fan_favs, popular","box_office, women_directors",simply
+17,28 Days Later,2002,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+18,28 Weeks Later,2007,popular,box_office,slug
+19,30 Days of Night,2007,popular,box_office,simply
+20,42,2013,"fan_favs, popular","best_movies_lists, box_office",imsdb
+21,47 Ronin,2013,popular,box_office,simply
+22,500 Days of Summer,2009,popular,box_office,slug
+23,8 Mile,2002,popular,box_office,slug
+24,9,2009,popular,box_office,imsdb
+25,99 Homes,2014,critics,filmmakers_choice,savant
+26,A Beautiful Day in the Neighborhood,2019,"critics, fan_favs, popular","box_office, filmmakers_choice, journal_list, women_directors",slug
+27,A Beautiful Mind,2001,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, journal_list",slug
+28,A Christmas Carol,2009,popular,box_office,savant
+29,A Complete Unknown,2024,"critics, popular","box_office, filmmakers_choice, popular_movies_lists",slug
+30,A Fantastic Woman,2017,fan_favs,best_movies_lists,slug
+31,A Good Year,2006,popular,box_office,simply
+32,A Haunting in Venice,2023,popular,box_office,slug
+33,A Hidden Life,2019,"critics, fan_favs","best_movies_lists, journal_list",slug
+34,A History of Violence,2005,"critics, popular","box_office, journal_list",slug
+35,A Man Called Otto,2022,popular,box_office,slug
+36,A Monster Calls,2016,critics,filmmakers_choice,slug
+37,A Most Violent Year,2014,critics,filmmakers_choice,slug
+38,A Nightmare on Elm Street,2010,popular,box_office,imsdb
+39,A Quiet Place,2018,"critics, popular","box_office, filmmakers_choice, journal_list, popular_movies_lists",slug
+40,A Real Pain,2024,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+41,A Separation,2011,"critics, fan_favs","best_movies_lists, filmmakers_choice, journal_list",slug
+42,A Serious Man,2009,"critics, fan_favs","best_movies_lists, filmmakers_choice, journal_list",slug
+43,A Simple Favor,2018,popular,box_office,slug
+44,A Star Is Born,2018,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, popular_movies_lists",slug
+45,A Walk to Remember,2002,"fan_favs, popular","best_movies_lists, box_office, women_directors",imsdb
+46,Abduction,2011,popular,box_office,savant
+47,About Schmidt,2002,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list",savant
+48,Abraham Lincoln: Vampire Hunter,2012,popular,box_office,slug
+49,Ad Astra,2019,"critics, popular","box_office, journal_list",slug
+50,Adaptation.,2002,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list",slug
+51,Adventureland,2009,fan_favs,"best_movies_lists, women_directors",simply
+52,After.Life,2009,fan_favs,women_directors,imsdb
+53,Aftershock,2010,popular,box_office,savant
+54,Aftersun,2022,"critics, fan_favs, popular","best_movies_lists, journal_list, popular_movies_lists, women_directors",slug
+55,Air,2023,popular,box_office,slug
+56,Aladdin,2019,popular,"box_office, popular_movies_lists",imsdb
+57,Alfie,2004,"critics, popular","box_office, filmmakers_choice",simply
+58,Ali,2001,"fan_favs, popular","best_movies_lists, box_office",slug
+59,Alice in Wonderland,2010,"critics, fan_favs, popular","box_office, filmmakers_choice, popular_movies_lists, women_directors",savant
+60,Alien vs. Predator,2004,popular,box_office,imsdb
+61,Alien: Covenant,2017,popular,box_office,slug
+62,All Quiet on the Western Front,2022,"critics, fan_favs, popular","award_winners, best_movies_lists, popular_movies_lists",slug
+63,All of Us Strangers,2023,"critics, fan_favs","best_movies_lists, journal_list",slug
+64,All the Money in the World,2017,popular,box_office,slug
+65,Almost Famous,2000,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, women_directors",slug
+66,Ambulance,2022,popular,box_office,slug
+67,American Fiction,2023,fan_favs,best_movies_lists,slug
+68,American Gangster,2007,"fan_favs, popular","best_movies_lists, box_office",imsdb
+69,American Hustle,2013,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+70,American Psycho,2000,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists, women_directors",slug
+71,American Sniper,2014,"fan_favs, popular","best_movies_lists, box_office",slug
+72,American Splendor,2003,"critics, fan_favs","journal_list, women_directors",imsdb
+73,Amour,2012,"critics, fan_favs","award_winners, best_movies_lists, journal_list",slug
+74,Amsterdam,2022,popular,box_office,slug
+75,Amélie,2001,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists, women_directors",slug
+76,An Education,2009,fan_favs,"best_movies_lists, women_directors",imsdb
+77,Analyze That,2002,popular,box_office,slug
+78,Anatomy of a Fall,2023,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, journal_list, women_directors",slug
+79,Anchorman,2004,critics,journal_list,savant
+80,Anchorman: The Legend of Ron Burgundy,2004,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+81,Angel Eyes,2001,popular,box_office,slug
+82,Angels & Demons,2009,popular,box_office,imsdb
+83,Anger Management,2003,"critics, popular","box_office, filmmakers_choice",slug
+84,Anna Karenina,2012,"critics, popular","box_office, filmmakers_choice",imsdb
+85,Annabelle,2014,popular,box_office,slug
+86,Annette,2021,"critics, fan_favs","best_movies_lists, journal_list",slug
+87,Annihilation,2018,"critics, fan_favs, popular","best_movies_lists, journal_list, popular_movies_lists",slug
+88,Anomalisa,2015,critics,"filmmakers_choice, journal_list",savant
+89,Anora,2024,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+90,Another Year,2010,"critics, fan_favs","best_movies_lists, filmmakers_choice, journal_list",slug
+91,Argo,2012,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, journal_list",slug
+92,Arrival,2016,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists",slug
+93,Arthur,2011,"critics, popular","box_office, filmmakers_choice",imsdb
+94,Asteroid City,2023,"critics, popular","box_office, journal_list, popular_movies_lists",slug
+95,Atomic Blonde,2017,"fan_favs, popular","box_office, popular_movies_lists, women_directors",slug
+96,Atonement,2007,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, filmmakers_choice, journal_list, women_directors",simply
+97,Attack the Block,2011,"critics, fan_favs","best_movies_lists, journal_list",slug
+98,August: Osage County,2013,"fan_favs, popular","best_movies_lists, box_office",slug
+99,Autumn in New York,2000,popular,box_office,imsdb
+100,Avatar,2009,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists",slug
+101,Avengers Age of Ultron,2015,popular,"box_office, popular_movies_lists",savant
+102,Avengers Endgame,2019,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+103,Babel,2006,"critics, popular","award_winners, box_office, journal_list",imsdb
+104,Baby Boy,2001,popular,box_office,slug
+105,Baby Driver,2017,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, popular_movies_lists",slug
+106,Babylon,2022,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists, women_directors",slug
+107,Bad Boys for Life,2020,popular,box_office,slug
+108,Bad Moms,2016,popular,box_office,slug
+109,Bad Santa,2003,popular,box_office,slug
+110,Bad Teacher,2011,"fan_favs, popular","box_office, women_directors",slug
+111,Bamboozled,2000,critics,journal_list,imsdb
+112,Barbarian,2022,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+113,Barbershop,2002,popular,box_office,slug
+114,Barbie,2023,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists, women_directors",slug
+115,Basic,2003,popular,box_office,imsdb
+116,Batman Begins,2005,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, popular_movies_lists",slug
+117,Battle Los Angeles,2011,popular,box_office,imsdb
+118,Battle of the Sexes,2017,"critics, fan_favs","filmmakers_choice, women_directors",slug
+119,Battlefield Earth,2000,popular,box_office,slug
+120,Baywatch,2017,popular,box_office,slug
+121,Beasts of the Southern Wild,2012,"critics, fan_favs","best_movies_lists, journal_list",imsdb
+122,Beau Is Afraid,2023,critics,filmmakers_choice,slug
+123,Beautiful Boy,2018,"critics, fan_favs, popular","best_movies_lists, filmmakers_choice, popular_movies_lists",slug
+124,Beauty Shop,2005,"fan_favs, popular","box_office, women_directors",simply
+125,Beauty and the Beast,2017,"critics, popular","box_office, filmmakers_choice, popular_movies_lists",slug
+126,Bee Movie,2007,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",savant
+127,Before Midnight,2013,"critics, fan_favs","best_movies_lists, filmmakers_choice, journal_list, women_directors",slug
+128,Before Sunset,2004,"critics, fan_favs, popular","best_movies_lists, filmmakers_choice, journal_list, popular_movies_lists, women_directors",simply
+129,Beginners,2010,fan_favs,best_movies_lists,slug
+130,Belfast,2021,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list",slug
+131,Belle,2021,"fan_favs, popular","best_movies_lists, box_office, women_directors",imsdb
+132,Below,2007,fan_favs,women_directors,simply
+133,Better Man,2024,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice",slug
+134,Big Fish,2003,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list",slug
+135,Billy Elliot,2000,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list",savant
+136,Bird Box,2018,"fan_favs, popular","popular_movies_lists, women_directors",slug
+137,BlacKkKlansman,2018,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+138,Black Christmas,2019,fan_favs,women_directors,simply
+139,Black Mass,2015,popular,box_office,savant
+140,Black Panther,2018,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+141,Black Panther: Wakanda Forever,2022,"fan_favs, popular","best_movies_lists, box_office",slug
+142,Black Swan,2010,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists, women_directors",slug
+143,Blade II,2002,popular,box_office,imsdb
+144,Blade Runner 2049,2017,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+145,Blade: Trinity,2004,popular,box_office,imsdb
+146,Blades of Glory,2007,popular,box_office,slug
+147,Blindspotting,2018,"critics, fan_favs","best_movies_lists, filmmakers_choice",slug
+148,Blink Twice,2024,"fan_favs, popular","box_office, women_directors",slug
+149,Blonde,2022,fan_favs,best_movies_lists,slug
+150,Blood Diamond,2006,"fan_favs, popular","best_movies_lists, box_office",slug
+151,Blood Work,2002,popular,box_office,simply
+152,Bloodshot,2020,popular,box_office,slug
+153,Blow,2001,popular,box_office,imsdb
+154,Blue Jasmine,2013,popular,box_office,slug
+155,Blue Jean,2022,fan_favs,best_movies_lists,savant
+156,Blue Ruin,2013,critics,filmmakers_choice,slug
+157,Blue Valentine,2010,"critics, fan_favs","best_movies_lists, filmmakers_choice, journal_list, women_directors",slug
+158,Body of Lies,2008,popular,box_office,savant
+159,Bohemian Rhapsody,2018,"critics, popular","award_winners, box_office, popular_movies_lists",slug
+160,Boiler Room,2000,popular,box_office,savant
+161,Bones,2001,fan_favs,best_movies_lists,imsdb
+162,Bones and All,2022,"fan_favs, popular","best_movies_lists, popular_movies_lists",slug
+163,Booksmart,2019,"critics, fan_favs, popular","best_movies_lists, journal_list, popular_movies_lists, women_directors",slug
+164,Borat,2006,popular,box_office,savant
+165,Bottoms,2023,"fan_favs, popular","best_movies_lists, popular_movies_lists, women_directors",slug
+166,Boyhood,2014,"critics, fan_favs","award_winners, best_movies_lists, filmmakers_choice, journal_list",slug
+167,Brad's Status,2017,critics,filmmakers_choice,savant
+168,Breach,2007,popular,box_office,slug
+169,Breathe,2014,fan_favs,women_directors,savant
+170,Brick,2005,"critics, fan_favs","best_movies_lists, journal_list",slug
+171,Bridesmaids,2011,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists, women_directors",slug
+172,Bridge of Spies,2015,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice",slug
+173,Bridget Jones's Baby,2016,"fan_favs, popular","best_movies_lists, box_office, women_directors",savant
+174,Brightstar,2009,"critics, fan_favs","best_movies_lists, journal_list, women_directors",simply
+175,Brokeback Mountain,2005,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+176,Brooklyn,2015,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list",slug
+177,Brothers,2009,popular,box_office,savant
+178,Bruce Almighty,2003,popular,"box_office, popular_movies_lists",imsdb
+179,Burlesque,2010,"fan_favs, popular","best_movies_lists, box_office, women_directors",imsdb
+180,Burn After Reading,2008,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list",slug
+181,CODA,2021,"critics, fan_favs","award_winners, best_movies_lists, women_directors",slug
+182,Call Me by Your Name,2017,"critics, fan_favs, popular","best_movies_lists, filmmakers_choice, journal_list, popular_movies_lists",slug
+183,Can You Ever Forgive Me?,2018,fan_favs,women_directors,slug
+184,Candyman,2021,"fan_favs, popular","box_office, women_directors",slug
+185,Capernaum,2018,"fan_favs, popular","best_movies_lists, box_office, women_directors",savant
+186,Capote,2005,"critics, popular","box_office, journal_list",slug
+187,Captain America: The First Avenger,2011,popular,"box_office, popular_movies_lists",slug
+188,Captain Fantastic,2016,fan_favs,best_movies_lists,slug
+189,Captain Phillips,2013,popular,box_office,daily
+190,Carol,2015,"critics, fan_favs, popular","best_movies_lists, journal_list, popular_movies_lists, women_directors",slug
+191,Carrie,2013,"fan_favs, popular","box_office, women_directors",imsdb
+192,Cars 2,2011,popular,"box_office, popular_movies_lists",imsdb
+193,Casino Royale,2006,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+194,Cast Away,2000,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+195,Catch Me If You Can,2002,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists",slug
+196,Catherine Called Birdy,2022,fan_favs,women_directors,slug
+197,Catwoman,2004,popular,box_office,simply
+198,Cellular,2004,popular,box_office,imsdb
+199,Central Intelligence,2016,popular,box_office,savant
+200,Challengers,2024,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists, women_directors",slug
+201,Changeling,2008,popular,box_office,imsdb
+202,Charlie Bartlett,2007,fan_favs,"best_movies_lists, women_directors",slug
+203,Charlie St. Cloud,2010,popular,box_office,savant
+204,Charlie Wilson's War,2007,popular,box_office,savant
+205,Charlie and the Chocolate Factory,2005,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+206,Charlie's Angels,2000,"fan_favs, popular","best_movies_lists, box_office, women_directors",imsdb
+207,Children of Men,2006,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list",slug
+208,Chocolat,2000,"fan_favs, popular","best_movies_lists, box_office",simply
+209,Chronicle,2012,popular,"box_office, popular_movies_lists",slug
+210,Cinderella Man,2005,popular,box_office,slug
+211,City Hall,2020,critics,journal_list,simply
+212,Clash of the Titans,2010,popular,box_office,imsdb
+213,Cloud Atlas,2012,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, women_directors",slug
+214,Cloverfield,2008,popular,box_office,slug
+215,Coco,2017,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+216,Cold Mountain,2003,popular,box_office,slug
+217,Collateral,2004,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list",slug
+218,Collateral Damage,2002,popular,box_office,imsdb
+219,Colombiana,2011,popular,box_office,imsdb
+220,Conan the Barbarian,2011,popular,box_office,savant
+221,Conclave,2024,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, popular_movies_lists",slug
+222,Concussion,2013,fan_favs,women_directors,savant
+223,Confessions of a Dangerous Mind,2002,popular,box_office,imsdb
+224,Constantine,2005,popular,box_office,slug
+225,Contagion,2011,popular,box_office,slug
+226,Conviction,2019,fan_favs,women_directors,savant
+227,Coraline,2009,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists, women_directors",slug
+228,Corpse Bride,2005,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists, women_directors",slug
+229,Cowboys & Aliens,2011,popular,box_office,imsdb
+230,Cradle 2 the Grave,2003,popular,box_office,imsdb
+231,Crank,2006,popular,box_office,imsdb
+232,Crash,2005,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, filmmakers_choice, journal_list",imsdb
+233,Crawl,2019,popular,box_office,slug
+234,Crazy Heart,2009,popular,box_office,simply
+235,Crazy Rich Asians,2018,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+236,"Crazy, Stupid, Love.",2011,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists, women_directors",slug
+237,Creed,2015,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list",slug
+238,Creed II,2018,"fan_favs, popular","best_movies_lists, box_office",slug
+239,Creed III,2023,"fan_favs, popular","best_movies_lists, box_office",slug
+240,Crimson Peak,2014,popular,box_office,savant
+241,"Crouching Tiger, Hidden Dragon",2000,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, journal_list",imsdb
+242,Da 5 Bloods,2020,"critics, fan_favs","best_movies_lists, journal_list",slug
+243,Dallas Buyers Club,2013,popular,box_office,slug
+244,Damsels in Distress,2011,critics,filmmakers_choice,savant
+245,Dangal,2016,popular,box_office,savant
+246,Dangerous Liaisons,2003,fan_favs,women_directors,simply
+247,Daredevil,2003,popular,box_office,slug
+248,Darkest Hour,2017,popular,"box_office, popular_movies_lists",slug
+249,Date Night,2010,popular,box_office,imsdb
+250,Dawn of the Dead,2004,popular,box_office,slug
+251,Deadpool,2016,popular,"box_office, popular_movies_lists",slug
+252,Deadpool & Wolverine,2024,popular,box_office,slug
+253,Dear John,2010,popular,box_office,savant
+254,Death Note,2017,popular,popular_movies_lists,slug
+255,Death Proof,2007,"critics, fan_favs","best_movies_lists, journal_list, women_directors",slug
+256,Death at a Funeral,2007,popular,box_office,slug
+257,Deception,2018,fan_favs,women_directors,imsdb
+258,Defiance,2008,popular,box_office,imsdb
+259,Den of Thieves,2018,popular,box_office,slug
+260,Despicable Me,2010,popular,"box_office, popular_movies_lists",simply
+261,Despicable Me 2,2013,popular,"box_office, popular_movies_lists",imsdb
+262,Destroyer,2018,fan_favs,women_directors,slug
+263,Dinner for Schmucks,2010,popular,box_office,slug
+264,Disturbia,2007,popular,box_office,imsdb
+265,Divergent,2014,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",savant
+266,Django Unchained,2012,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+267,Doctor Sleep,2019,popular,box_office,slug
+268,Dolemite Is My Name,2019,critics,filmmakers_choice,slug
+269,Domino,2005,fan_favs,best_movies_lists,simply
+270,Donnie Darko,2001,"critics, fan_favs, popular","best_movies_lists, journal_list, popular_movies_lists",slug
+271,Doom,2005,popular,box_office,slug
+272,Doubt,2008,popular,box_office,slug
+273,Downsizing,2017,"critics, popular","box_office, filmmakers_choice",slug
+274,Downton Abbey,2019,popular,box_office,slug
+275,Drag Me to Hell,2009,popular,box_office,slug
+276,Dream Scenario,2023,fan_favs,best_movies_lists,slug
+277,Dreamcatcher,2003,popular,box_office,savant
+278,Drive,2011,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists",slug
+279,Driven,2001,popular,box_office,simply
+280,Dumb Money,2023,fan_favs,best_movies_lists,slug
+281,Dune,2021,"critics, fan_favs, popular","best_movies_lists, filmmakers_choice, journal_list, popular_movies_lists",slug
+282,Dune: Part One,2021,"critics, popular","box_office, journal_list",imsdb
+283,Dunkirk,2017,"critics, popular","box_office, filmmakers_choice, journal_list, popular_movies_lists",slug
+284,Duplex,2003,fan_favs,"best_movies_lists, women_directors",simply
+285,Duplicity,2009,popular,box_office,slug
+286,Eagle Eye,2008,popular,box_office,imsdb
+287,Eastern Promises,2007,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list",imsdb
+288,Easy A,2010,"fan_favs, popular","box_office, popular_movies_lists, women_directors",slug
+289,Edge of Tomorrow,2014,"critics, popular","box_office, filmmakers_choice, journal_list, popular_movies_lists",slug
+290,Eight Legged Freaks,2002,popular,box_office,imsdb
+291,Eighth Grade,2018,"critics, fan_favs","best_movies_lists, journal_list",slug
+292,Elemental,2023,"fan_favs, popular","best_movies_lists, box_office",slug
+293,Elf,2003,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists",simply
+294,Elizabeth: The Golden Age,2007,popular,box_office,imsdb
+295,Elizabethtown,2005,popular,box_office,simply
+296,Elle,2016,critics,journal_list,simply
+297,Elvis,2022,"critics, popular","box_office, filmmakers_choice, journal_list, popular_movies_lists",slug
+298,Elysium,2013,popular,box_office,slug
+299,Emilia Pérez,2024,critics,journal_list,slug
+300,Emma.,2020,"fan_favs, popular","best_movies_lists, box_office, women_directors",slug
+301,Encanto,2021,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+302,Enchanted,2007,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists, women_directors",savant
+303,End of Watch,2012,"fan_favs, popular","best_movies_lists, box_office",slug
+304,Ender's Game,2013,popular,box_office,simply
+305,Enemy of the State,2011,fan_favs,women_directors,imsdb
+306,Enough,2002,"fan_favs, popular","box_office, women_directors",imsdb
+307,Enough Said,2013,"critics, fan_favs","filmmakers_choice, women_directors",slug
+308,Enter the Void,2009,"critics, fan_favs","best_movies_lists, journal_list",savant
+309,Equity,2016,fan_favs,women_directors,slug
+310,Eragon,2006,popular,box_office,savant
+311,Erin Brockovich,2000,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, women_directors",slug
+312,Eternal Sunshine of the Spotless Mind,2004,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists, women_directors",slug
+313,Everything Everywhere All at Once,2022,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists, women_directors",slug
+314,Evil Dead,2013,popular,box_office,slug
+315,Evolution,2001,"critics, fan_favs, popular","box_office, journal_list, women_directors",slug
+316,Ex Machina,2015,"critics, fan_favs, popular","best_movies_lists, filmmakers_choice, journal_list, popular_movies_lists",slug
+317,Fantastic Beasts and Where to Find Them,2016,popular,"box_office, popular_movies_lists",slug
+318,Fantastic Beasts: The Crimes of Grindelwald,2018,popular,box_office,slug
+319,Fantastic Beasts: The Secrets of Dumbledore,2022,popular,box_office,slug
+320,Fantastic Four,2005,popular,"box_office, popular_movies_lists",imsdb
+321,Fantastic Mr. Fox,2009,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists",slug
+322,Far From Heaven,2002,critics,journal_list,savant
+323,Fast Five,2011,"fan_favs, popular","best_movies_lists, box_office",simply
+324,Fences,2016,popular,box_office,slug
+325,Ferrari,2023,"critics, popular","box_office, filmmakers_choice",slug
+326,Final Destination,2000,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+327,Final Destination 2,2003,popular,box_office,imsdb
+328,Finding Forrester,2000,popular,box_office,savant
+329,Finding Nemo,2003,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+330,First Cow,2019,"critics, fan_favs","best_movies_lists, journal_list, women_directors",imsdb
+331,First Man,2018,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice",slug
+332,First Reformed,2017,"critics, fan_favs","best_movies_lists, filmmakers_choice, journal_list",savant
+333,First They Killed My Father,2017,"critics, fan_favs","filmmakers_choice, women_directors",slug
+334,Five Came Back,2017,critics,filmmakers_choice,savant
+335,Flight,2012,"critics, popular","box_office, filmmakers_choice",slug
+336,Flightplan,2005,popular,box_office,simply
+337,Flipped,2010,fan_favs,"best_movies_lists, women_directors",savant
+338,Focus,2015,"fan_favs, popular","best_movies_lists, box_office",slug
+339,Ford v Ferrari,2019,"critics, popular","box_office, journal_list, popular_movies_lists",slug
+340,Forgetting Sarah Marshall,2008,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, women_directors",savant
+341,Four Lions,2010,fan_favs,best_movies_lists,savant
+342,Foxcatcher,2014,"critics, fan_favs","best_movies_lists, journal_list",slug
+343,Fracture,2007,popular,box_office,imsdb
+344,Frances Ha,2012,"critics, fan_favs, popular","best_movies_lists, filmmakers_choice, journal_list, popular_movies_lists, women_directors",slug
+345,Frankenweenie,2012,popular,box_office,slug
+346,Fred Claus,2007,popular,box_office,slug
+347,Freddy vs. Jason,2003,popular,box_office,slug
+348,Free Guy,2021,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+349,Frequency,2000,popular,box_office,slug
+350,Fresh,2022,fan_favs,"best_movies_lists, women_directors",slug
+351,Friday the 13th,2009,popular,box_office,imsdb
+352,Friends with Benefits,2011,"fan_favs, popular","box_office, women_directors",savant
+353,From Hell,2001,popular,box_office,savant
+354,Frozen,2013,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists, women_directors",slug
+355,Frozen River,2008,"critics, fan_favs","journal_list, women_directors",imsdb
+356,Fruitvale Station,2013,critics,"filmmakers_choice, journal_list",slug
+357,Funny People,2009,popular,box_office,imsdb
+358,Fury,2014,"fan_favs, popular","best_movies_lists, box_office",slug
+359,G.I. Joe: The Rise of Cobra,2009,popular,box_office,imsdb
+360,Game Night,2018,"fan_favs, popular","best_movies_lists, box_office",slug
+361,Gangs of New York,2002,"critics, popular","box_office, journal_list",imsdb
+362,Garden State,2004,popular,box_office,slug
+363,Gemini Man,2019,popular,box_office,slug
+364,Geostorm,2017,popular,box_office,slug
+365,Get Carter,2000,popular,box_office,imsdb
+366,Get Hard,2015,"fan_favs, popular","best_movies_lists, box_office",savant
+367,Get Him to the Greek,2010,popular,box_office,simply
+368,Get Out,2017,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists",slug
+369,Get Rich or Die Tryin',2005,"fan_favs, popular","best_movies_lists, box_office",slug
+370,Ghost Rider,2007,popular,box_office,slug
+371,Ghost Ship,2002,popular,box_office,imsdb
+372,Ghost World,2001,"critics, fan_favs","best_movies_lists, journal_list, women_directors",imsdb
+373,Ghostbusters,2016,popular,"box_office, popular_movies_lists",imsdb
+374,Ginger And Rosa,2012,fan_favs,women_directors,savant
+375,Ginger Snaps,2000,"critics, fan_favs","best_movies_lists, journal_list, women_directors",slug
+376,Girl with a Pearl Earring,2003,popular,box_office,simply
+377,Girls Trip,2017,"critics, popular","box_office, filmmakers_choice",slug
+378,Gladiator,2000,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+379,Gladiator II,2024,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+380,Glass Onion,2022,popular,popular_movies_lists,savant
+381,Glory Road,2006,"fan_favs, popular","best_movies_lists, box_office",simply
+382,Godfather,2022,popular,box_office,imsdb
+383,Gods of Egypt,2015,popular,box_office,savant
+384,Godzilla,2014,popular,box_office,slug
+385,Gone Girl,2014,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists, women_directors",slug
+386,Gone in 60 Seconds,2000,popular,box_office,imsdb
+387,Good Luck Chuck,2007,popular,box_office,simply
+388,"Good Night, and Good Luck",2005,"critics, popular","box_office, filmmakers_choice, journal_list",simply
+389,Goosebumps,2015,popular,box_office,savant
+390,Gothika,2003,popular,box_office,imsdb
+391,Gran Torino,2008,"critics, popular","box_office, journal_list",imsdb
+392,Grandma,2004,"critics, fan_favs","filmmakers_choice, women_directors",savant
+393,Gravity,2013,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+394,Green Book,2018,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, popular_movies_lists",slug
+395,Green Lantern,2011,popular,box_office,slug
+396,Green Room,2015,"critics, fan_favs, popular","best_movies_lists, filmmakers_choice, journal_list, popular_movies_lists",slug
+397,Green Zone,2009,popular,box_office,savant
+398,Greenberg,2010,critics,"filmmakers_choice, journal_list",slug
+399,Grown Ups,2010,"fan_favs, popular","box_office, popular_movies_lists, women_directors",savant
+400,Guardians of the Galaxy Vol. 2,2017,popular,"box_office, popular_movies_lists",slug
+401,Hacksaw Ridge,2016,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+402,"Hail, Caesar!",2016,"critics, popular","box_office, filmmakers_choice, popular_movies_lists",slug
+403,Hairspray,2007,"fan_favs, popular","best_movies_lists, box_office, women_directors",savant
+404,Hall Pass,2011,popular,box_office,slug
+405,Halloween,2018,popular,"box_office, popular_movies_lists",slug
+406,Halloween Kills,2021,popular,box_office,slug
+407,Halloween Resurrection,2002,popular,box_office,simply
+408,Hancock,2008,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",imsdb
+409,Hanna,2011,"fan_favs, popular","best_movies_lists, box_office",slug
+410,Hannibal,2001,popular,box_office,imsdb
+411,Happy Death Day,2017,popular,box_office,slug
+412,Happy Feet,2006,"fan_favs, popular","best_movies_lists, box_office",imsdb
+413,Happy-Go-Lucky,2008,critics,"filmmakers_choice, journal_list",simply
+414,Hardball,2001,popular,box_office,simply
+415,Harriet,2019,fan_favs,women_directors,slug
+416,Harry Potter and the Chamber of Secrets,2002,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+417,Harry Potter and the Deathly Hallows: Part 1,2010,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+418,Harry Potter and the Deathly Hallows: Part 2,2011,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+419,Harry Potter and the Goblet of Fire,2005,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+420,Harry Potter and the Half-Blood Prince,2009,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+421,Harry Potter and the Order of the Phoenix,2007,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+422,Harry Potter and the Prisoner of Azkaban,2004,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+423,He's Just Not That Into You,2009,"fan_favs, popular","box_office, women_directors",imsdb
+424,Heist,2001,popular,box_office,imsdb
+425,Hell or High Water,2016,"critics, fan_favs, popular","best_movies_lists, filmmakers_choice, journal_list, popular_movies_lists",slug
+426,Hellboy,2004,popular,box_office,slug
+427,Hellboy 2 The Golden Army,2008,popular,box_office,imsdb
+428,Her,2013,"critics, fan_favs, popular","best_movies_lists, journal_list, popular_movies_lists",slug
+429,Hercules,2014,"fan_favs, popular","best_movies_lists, box_office",savant
+430,Hereafter,2010,popular,box_office,savant
+431,Hereditary,2018,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+432,Hero,2002,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list",simply
+433,Herself,2020,fan_favs,women_directors,savant
+434,Hidden Figures,2016,"critics, popular","box_office, journal_list",slug
+435,Hide and Seek,2005,"fan_favs, popular","box_office, women_directors",savant
+436,High Fidelity,2000,"critics, popular","box_office, journal_list",slug
+437,High Noon,2014,fan_favs,women_directors,simply
+438,High School Musical,2006,"fan_favs, popular","best_movies_lists, popular_movies_lists, women_directors",savant
+439,Highway,2014,fan_favs,best_movies_lists,savant
+440,Hitman,2007,popular,box_office,simply
+441,Holes,2003,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",simply
+442,Hollow Man,2000,popular,box_office,slug
+443,Honey Boy,2019,"critics, fan_favs","best_movies_lists, filmmakers_choice, women_directors",slug
+444,Horrible Bosses,2011,"fan_favs, popular","best_movies_lists, box_office",slug
+445,Horrible Bosses 2,2014,popular,box_office,slug
+446,Hostage,2005,popular,box_office,imsdb
+447,Hot Fuzz,2007,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists",slug
+448,Hot Rod,2007,fan_favs,best_movies_lists,savant
+449,Hot Tub Time Machine,2010,popular,box_office,imsdb
+450,Hotel Rwanda,2004,popular,box_office,imsdb
+451,Hotel Transylvania,2012,popular,"box_office, popular_movies_lists",savant
+452,Hotel Transylvania 2,2015,popular,box_office,savant
+453,House of Gucci,2021,popular,box_office,slug
+454,How Do You Know,2010,"fan_favs, popular","box_office, women_directors",simply
+455,How the Grinch Stole Christmas,2000,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+456,How to Train Your Dragon,2010,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+457,How to Train Your Dragon 2,2014,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+458,How to Train Your Dragon: The Hidden World,2019,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+459,Howls Moving Castle,2004,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",savant
+460,Hugo,2011,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list",slug
+461,Human Nature,2023,fan_favs,best_movies_lists,imsdb
+462,Hustlers,2019,"critics, fan_favs, popular","box_office, filmmakers_choice, women_directors",slug
+463,I Am Legend,2007,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",simply
+464,I Am Number Four,2011,popular,box_office,imsdb
+465,I Am Sam,2001,popular,box_office,savant
+466,I Know What You Did Last Summer,2025,"fan_favs, popular","box_office, women_directors",simply
+467,I Lost My Body,2019,critics,"filmmakers_choice, journal_list",savant
+468,"I Love You, Man",2009,popular,box_office,slug
+469,I'm Thinking of Ending Things,2020,critics,journal_list,savant
+470,I'm Your Woman,2020,fan_favs,women_directors,savant
+471,"I, Robot",2004,popular,"box_office, popular_movies_lists",imsdb
+472,"I, Tonya",2017,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, popular_movies_lists, women_directors",slug
+473,Identity,2003,popular,box_office,slug
+474,Idiocracy,2006,critics,journal_list,simply
+475,If Beale Street Could Talk,2018,"critics, fan_favs","award_winners, best_movies_lists, journal_list",slug
+476,In Bruges,2008,"critics, fan_favs","best_movies_lists, journal_list",slug
+477,In Fabric,2018,critics,filmmakers_choice,slug
+478,In Good Company,2004,popular,box_office,simply
+479,In the Bedroom,2001,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list",imsdb
+480,In the Loop,2009,"critics, fan_favs","best_movies_lists, journal_list",imsdb
+481,Inception,2010,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+482,Indiana Jones and the Kingdom of the Crystal Skull,2008,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+483,Inferno,2016,popular,box_office,savant
+484,Infinitely Polar Bear,2014,fan_favs,women_directors,slug
+485,Inglourious Basterds,2009,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+486,Inherent Vice,2014,critics,"filmmakers_choice, journal_list",slug
+487,Inside Job,2010,critics,journal_list,savant
+488,Inside Llewyn Davis,2013,"critics, fan_favs","best_movies_lists, filmmakers_choice, journal_list",slug
+489,Inside Man,2006,"fan_favs, popular","best_movies_lists, box_office",simply
+490,Inside Out,2015,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+491,Insidious,2010,popular,"box_office, popular_movies_lists",slug
+492,Insidious: Chapter 2,2013,popular,box_office,slug
+493,Insomnia,2002,popular,box_office,slug
+494,Interstellar,2014,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+495,Into the Wild,2007,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list",imsdb
+496,Into the Woods,2014,"critics, popular","box_office, filmmakers_choice",slug
+497,Intolerable Cruelty,2003,popular,box_office,imsdb
+498,Invictus,2009,popular,box_office,imsdb
+499,Iron Man,2008,"critics, popular","box_office, journal_list, popular_movies_lists",slug
+500,Isle of Dogs,2018,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists, women_directors",slug
+501,It,2017,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+502,It Follows,2014,"critics, fan_favs, popular","best_movies_lists, filmmakers_choice, journal_list, popular_movies_lists",savant
+503,It's Complicated,2009,"fan_favs, popular","best_movies_lists, box_office, women_directors",imsdb
+504,Jack Reacher,2012,popular,box_office,slug
+505,Jackie,2016,"critics, fan_favs","best_movies_lists, journal_list, women_directors",slug
+506,Jane Eyre,2006,fan_favs,women_directors,imsdb
+507,Jarhead,2005,popular,box_office,slug
+508,Jay and Silent Bob Strike Back,2001,popular,box_office,imsdb
+509,Jeepers Creepers,2001,popular,box_office,simply
+510,Jeepers Creepers 2,2003,popular,box_office,simply
+511,Jennifer's Body,2009,"fan_favs, popular","best_movies_lists, popular_movies_lists, women_directors",imsdb
+512,John Q,2002,popular,box_office,imsdb
+513,John Tucker Must Die,2006,"fan_favs, popular","best_movies_lists, box_office, women_directors",savant
+514,John Wick,2014,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",imsdb
+515,John Wick: Chapter 4,2023,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list",slug
+516,Jojo Rabbit,2019,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+517,Joker,2019,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists",slug
+518,Joy,2015,"fan_favs, popular","box_office, women_directors",slug
+519,Judas and the Black Messiah,2021,fan_favs,best_movies_lists,slug
+520,Julia,2013,"critics, fan_favs","award_winners, women_directors",simply
+521,Jumper,2008,popular,box_office,savant
+522,Juno,2007,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, journal_list, popular_movies_lists, women_directors",slug
+523,Jurassic Park III,2001,popular,"box_office, popular_movies_lists",imsdb
+524,Just Mercy,2019,popular,box_office,slug
+525,K-PAX,2001,popular,box_office,slug
+526,Kajillionaire,2020,fan_favs,women_directors,slug
+527,Kate & Leopold,2001,popular,box_office,imsdb
+528,Kick-Ass,2010,popular,"box_office, popular_movies_lists",simply
+529,Kill Bill: Vol. 1,2003,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists, women_directors",slug
+530,Kill Bill: Vol. 2,2004,"critics, popular","box_office, journal_list, popular_movies_lists",slug
+531,Killers of the Flower Moon,2023,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list",slug
+532,King Kong,2005,"critics, popular","box_office, journal_list, popular_movies_lists",slug
+533,King Richard,2021,popular,box_office,slug
+534,The Kingdom of Heaven,2005,popular,box_office,simply
+535,Kingsman: The Secret Service,2014,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+536,Kiss Kiss Bang Bang,2005,"critics, fan_favs","best_movies_lists, journal_list",slug
+537,Knives Out,2019,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists, women_directors",slug
+538,Knocked Up,2007,"critics, popular","box_office, journal_list",slug
+539,Krampus,2015,popular,box_office,slug
+540,Kubo and the Two Strings,2016,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list",slug
+541,Kung Fu Panda,2008,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",imsdb
+542,La La Land,2016,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, journal_list, popular_movies_lists, women_directors",slug
+543,Lady Bird,2017,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists, women_directors",slug
+544,Lady Chatterley's Lover,2022,fan_favs,women_directors,savant
+545,Land,2021,fan_favs,women_directors,savant
+546,Land of the Dead,2005,popular,box_office,imsdb
+547,Larry Crowne,2011,popular,box_office,imsdb
+548,Last Holiday,2006,"fan_favs, popular","best_movies_lists, box_office",slug
+549,Last Night in Soho,2021,"fan_favs, popular","box_office, popular_movies_lists, women_directors",slug
+550,Law Abiding Citizen,2009,"fan_favs, popular","best_movies_lists, box_office",slug
+551,Leap Year,2010,fan_favs,women_directors,savant
+552,Leave No Trace,2018,"critics, fan_favs","filmmakers_choice, journal_list, women_directors",slug
+553,Legally Blonde,2001,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists, women_directors",imsdb
+554,Legion,2010,popular,box_office,imsdb
+555,Lenny,2018,fan_favs,women_directors,simply
+556,Les Misérables,2012,"fan_favs, popular","best_movies_lists, box_office",slug
+557,Let Him Go,2020,popular,box_office,savant
+558,Letters from Iwo Jima,2006,"critics, popular","box_office, journal_list",simply
+559,Letters to Juliet,2010,"fan_favs, popular","box_office, women_directors",simply
+560,Leviathan,2014,"critics, fan_favs","best_movies_lists, journal_list, women_directors",imsdb
+561,Life,2017,"fan_favs, popular","best_movies_lists, box_office",imsdb
+562,Life of Pi,2012,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+563,Lights Out,2016,popular,box_office,slug
+564,Limbo,2023,fan_favs,"best_movies_lists, women_directors",savant
+565,Limitless,2011,popular,box_office,imsdb
+566,Lincoln,2012,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list",slug
+567,Lion,2016,"fan_favs, popular","best_movies_lists, box_office",slug
+568,Little Children,2006,fan_favs,best_movies_lists,simply
+569,Little Miss Sunshine,2006,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, journal_list, popular_movies_lists, women_directors",slug
+570,Little Nicky,2000,"fan_favs, popular","best_movies_lists, box_office",imsdb
+571,Little Women,2019,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists, women_directors",slug
+572,Live Free or Die Hard,2007,popular,box_office,slug
+573,Lockdown,2019,fan_favs,women_directors,savant
+574,Logan,2017,"critics, popular","box_office, filmmakers_choice, journal_list, popular_movies_lists",slug
+575,Lone Survivor,2013,popular,box_office,slug
+576,Looney Tunes: Back in Action,2003,popular,box_office,slug
+577,Looper,2012,"critics, popular","box_office, journal_list",slug
+578,Lord of War,2005,popular,box_office,imsdb
+579,Lost Souls,2000,popular,box_office,simply
+580,Lost in Translation,2003,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists, women_directors",slug
+581,Love & Basketball,2000,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, women_directors",imsdb
+582,Love and Friendship,2016,critics,journal_list,simply
+583,Love Actually,2003,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists, women_directors",slug
+584,Love Me,2024,fan_favs,women_directors,savant
+585,"Love, Simon",2018,popular,box_office,slug
+586,Loveless,2017,"critics, fan_favs","best_movies_lists, filmmakers_choice, journal_list",savant
+587,Loving,2016,critics,filmmakers_choice,slug
+588,Luca,2021,popular,"box_office, popular_movies_lists",slug
+589,Lucky Number Slevin,2006,popular,box_office,slug
+590,Lucy,2014,popular,"box_office, popular_movies_lists",slug
+591,M,2018,fan_favs,women_directors,savant
+592,Ma Rainey's Black Bottom,2020,fan_favs,best_movies_lists,savant
+593,MacBeth,2011,fan_favs,women_directors,simply
+594,Mad Max: Fury Road,2015,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists",slug
+595,Made in Dagenham,2010,fan_favs,women_directors,simply
+596,Maestro,2023,"critics, fan_favs","best_movies_lists, filmmakers_choice",slug
+597,Maggie's Plan,2015,fan_favs,women_directors,simply
+598,Maleficent,2014,popular,"box_office, popular_movies_lists",savant
+599,Malibu's Most Wanted,2003,popular,box_office,imsdb
+600,Malignant,2021,"fan_favs, popular","best_movies_lists, box_office",slug
+601,Man on Fire,2004,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list",slug
+602,Man on a Ledge,2012,popular,box_office,slug
+603,Manchester by the Sea,2016,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists",
+604,Mandy,2018,"critics, fan_favs","best_movies_lists, filmmakers_choice",slug
+605,Maniac,2012,fan_favs,best_movies_lists,simply
+606,Maqbool,2003,"critics, fan_favs","best_movies_lists, journal_list",savant
+607,Margaret,2011,"critics, fan_favs","best_movies_lists, filmmakers_choice, journal_list",imsdb
+608,Margot at the Wedding,2007,critics,filmmakers_choice,imsdb
+609,Maria,2024,popular,box_office,slug
+610,Maria Full of Grace,2004,critics,journal_list,slug
+611,Marley & Me,2008,popular,"box_office, popular_movies_lists",imsdb
+612,Marriage Story,2019,"critics, fan_favs, popular","best_movies_lists, filmmakers_choice, journal_list, popular_movies_lists",slug
+613,Martha Marcy May Marlene,2011,critics,journal_list,imsdb
+614,Mary Poppins Returns,2018,popular,box_office,slug
+615,Mary Queen of Scots,2018,fan_favs,women_directors,slug
+616,Master,2021,"fan_favs, popular","best_movies_lists, box_office, women_directors",savant
+617,Match Point,2005,"critics, popular","box_office, journal_list",slug
+618,Matchstick Men,2003,popular,box_office,simply
+619,Maudie,2016,fan_favs,women_directors,savant
+620,Max Payne,2008,popular,box_office,imsdb
+621,May December,2023,critics,"filmmakers_choice, journal_list",slug
+622,Me and Earl and the Dying Girl,2015,fan_favs,best_movies_lists,slug
+623,Mean Girls,2004,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists, women_directors",slug
+624,Meet the Parents,2000,"fan_favs, popular","best_movies_lists, box_office, women_directors",savant
+625,Megamind,2010,popular,"box_office, popular_movies_lists",slug
+626,Memento,2000,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+627,Memoirs of a Geisha,2005,popular,box_office,slug
+628,Memories of Murder,2003,"critics, fan_favs","best_movies_lists, filmmakers_choice, journal_list",slug
+629,Miami Vice,2006,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list",imsdb
+630,Michael Clayton,2007,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list",slug
+631,Middle of Nowhere,2012,fan_favs,women_directors,savant
+632,Midnight in Paris,2011,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+633,Midsommar,2019,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists",slug
+634,Midway,2019,popular,box_office,slug
+635,Milk,2008,"critics, fan_favs, popular","box_office, journal_list, women_directors",imsdb
+636,Million Dollar Baby,2004,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, journal_list",slug
+637,Minari,2020,"critics, fan_favs","best_movies_lists, journal_list",slug
+638,Minions,2015,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",savant
+639,Minority Report,2002,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list",slug
+640,Mirrors,2008,popular,box_office,imsdb
+641,Miss Congeniality,2000,"fan_favs, popular","best_movies_lists, box_office, women_directors",slug
+642,Missing,2023,"critics, popular","award_winners, box_office",simply
+643,Mission to Mars,2000,popular,box_office,imsdb
+644,Mission: Impossible - Rogue Nation,2015,popular,box_office,slug
+645,Mission: Impossible II,2000,popular,box_office,slug
+646,Mission: Impossible III,2006,popular,box_office,slug
+647,Mission: Impossible – Fallout,2018,popular,popular_movies_lists,slug
+648,Mississippi Grind,2015,fan_favs,women_directors,simply
+649,Molly's Game,2017,popular,box_office,savant
+650,Moneyball,2011,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list",slug
+651,Monster,2023,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists, women_directors",simply
+652,Monster's Ball,2001,popular,box_office,simply
+653,Monsters University,2013,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+654,"Monsters, Inc.",2001,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",savant
+655,Monte Carlo,2011,fan_favs,women_directors,imsdb
+656,Moon,2009,critics,journal_list,slug
+657,Moonlight,2016,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists, women_directors",slug
+658,Moonrise Kingdom,2012,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists, women_directors",slug
+659,Morning Glory,2010,"fan_favs, popular","box_office, women_directors",savant
+660,Mother,2009,"critics, fan_favs","best_movies_lists, journal_list",savant
+661,Moulin Rouge!,2001,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, women_directors",slug
+662,Mr Turner,2014,critics,journal_list,slug
+663,Mr. And Mrs. Smith,2005,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists, women_directors",simply
+664,Mr. Brooks,2007,popular,box_office,imsdb
+665,Mr. Nobody,2009,fan_favs,best_movies_lists,slug
+666,Mr. Popper's Penguins,2011,popular,box_office,savant
+667,Mr. Right,2015,fan_favs,women_directors,slug
+668,Mud,2012,critics,filmmakers_choice,slug
+669,Mudbound,2017,"critics, fan_favs","filmmakers_choice, women_directors",slug
+670,Mulan,2020,"fan_favs, popular","best_movies_lists, box_office, women_directors",imsdb
+671,Mulholland Drive,2001,"critics, fan_favs, popular","best_movies_lists, filmmakers_choice, journal_list, popular_movies_lists",imsdb
+672,Munich,2005,"critics, popular","box_office, journal_list",simply
+673,Murder on the Orient Express,2017,"fan_favs, popular","best_movies_lists, box_office",slug
+674,My Big Fat Greek Wedding 2,2016,"fan_favs, popular","best_movies_lists, box_office",slug
+675,My Old Ass,2024,fan_favs,"best_movies_lists, women_directors",slug
+676,My Spy,2020,popular,box_office,savant
+677,Mystic River,2003,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list",savant
+678,Nanny,2022,"critics, fan_favs","filmmakers_choice, women_directors",slug
+679,Napoleon,2023,popular,box_office,slug
+680,Napoleon Dynamite,2004,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+681,National Treasure,2004,popular,"box_office, popular_movies_lists",slug
+682,Nebraska,2013,"critics, fan_favs","best_movies_lists, filmmakers_choice, journal_list",slug
+683,Never Let Me Go,2010,fan_favs,best_movies_lists,savant
+684,Never Rarely Sometimes Always,2020,"critics, fan_favs","best_movies_lists, filmmakers_choice, journal_list, women_directors",slug
+685,New York Minute,2004,fan_favs,"best_movies_lists, women_directors",imsdb
+686,Next,2007,"fan_favs, popular","box_office, women_directors",imsdb
+687,Next Friday,2000,"fan_favs, popular","best_movies_lists, box_office",imsdb
+688,Nickel Boys,2024,"critics, fan_favs","best_movies_lists, journal_list",slug
+689,Nightbitch,2024,fan_favs,best_movies_lists,slug
+690,Nightcrawler,2014,"critics, fan_favs, popular","best_movies_lists, journal_list, popular_movies_lists",slug
+691,Nightmare Alley,2021,"fan_favs, popular","best_movies_lists, box_office",slug
+692,Nine,2009,popular,box_office,imsdb
+693,Ninja Assassin,2009,popular,box_office,slug
+694,No Country for Old Men,2007,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+695,No Hard Feelings,2023,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists, women_directors",slug
+696,No One Will Save You,2023,critics,filmmakers_choice,slug
+697,No Strings Attached,2011,"critics, fan_favs, popular","box_office, filmmakers_choice, women_directors",imsdb
+698,No Time to Die,2021,popular,box_office,slug
+699,Noah,2014,popular,box_office,simply
+700,Nomadland,2021,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, filmmakers_choice, journal_list, women_directors",savant
+701,Nope,2022,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list",slug
+702,Norbit,2007,"fan_favs, popular","best_movies_lists, box_office",daily
+703,Norway,2014,fan_favs,best_movies_lists,savant
+704,Nosferatu,2024,"fan_favs, popular","best_movies_lists, box_office",slug
+705,Notorious,2009,"critics, popular","box_office, filmmakers_choice",slug
+706,Novitiate,2017,"critics, fan_favs","filmmakers_choice, women_directors",savant
+707,Now You See Me,2013,popular,"box_office, popular_movies_lists",slug
+708,Nowhere Boy,2009,fan_favs,women_directors,slug
+709,Nurse Betty,2000,popular,box_office,imsdb
+710,"O Brother, Where Art Thou",2000,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list",simply
+711,Oblivion,2013,"fan_favs, popular","box_office, women_directors",imsdb
+712,Observe and Report,2009,fan_favs,best_movies_lists,imsdb
+713,Obsessed,2009,popular,box_office,imsdb
+714,Ocean's Eleven,2001,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",imsdb
+715,Ocean's Twelve,2004,popular,box_office,imsdb
+716,Oldboy,2003,"critics, fan_favs, popular","best_movies_lists, journal_list, popular_movies_lists",simply
+717,Olympus Has Fallen,2013,popular,box_office,slug
+718,On the Basis of Sex,2018,fan_favs,women_directors,slug
+719,Once Upon a Time in Mexico,2003,popular,box_office,slug
+720,One Night in Miami...,2020,fan_favs,"best_movies_lists, women_directors",slug
+721,Only God Forgives,2013,fan_favs,best_movies_lists,imsdb
+722,Only Lovers Left Alive,2013,"critics, fan_favs","best_movies_lists, filmmakers_choice, journal_list",slug
+723,Onward,2020,popular,box_office,imsdb
+724,Oppenheimer,2023,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists",slug
+725,Origin,2023,"critics, fan_favs","best_movies_lists, filmmakers_choice, women_directors",slug
+726,Orphan,2009,popular,"box_office, popular_movies_lists",imsdb
+727,Ouija,2014,popular,box_office,slug
+728,Overboard,2018,popular,box_office,slug
+729,PK,2014,popular,box_office,savant
+730,Pacific Rim,2013,"fan_favs, popular","best_movies_lists, box_office",slug
+731,Pain and Glory,2019,critics,"filmmakers_choice, journal_list",slug
+732,Palm Springs,2020,"fan_favs, popular","popular_movies_lists, women_directors",slug
+733,Pan,2015,popular,box_office,savant
+734,Pan's Labyrinth,2006,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",simply
+735,Panic Room,2002,popular,box_office,slug
+736,ParaNorman,2012,popular,box_office,slug
+737,Parallel Mothers,2021,popular,box_office,slug
+738,Parasite,2019,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists",slug
+739,Pariah,2011,"critics, fan_favs","best_movies_lists, journal_list, women_directors",slug
+740,Passengers,2016,popular,box_office,imsdb
+741,Passing,2021,fan_favs,women_directors,slug
+742,Past Lives,2023,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists, women_directors",slug
+743,Paul,2011,popular,"box_office, popular_movies_lists",imsdb
+744,Pearl Harbor,2001,popular,box_office,imsdb
+745,Pet Sematary,2019,popular,box_office,slug
+746,Phantom Thread,2017,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists, women_directors",slug
+747,Philomena,2013,"critics, popular","box_office, journal_list",savant
+748,Phone Booth,2003,popular,box_office,imsdb
+749,Pineapple Express,2008,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+750,Pirates of the Caribbean Dead Man's Chest,2006,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",imsdb
+751,Pirates of the Caribbean Dead Men Tell No Tales,2017,popular,"box_office, popular_movies_lists",slug
+752,Pirates of the Caribbean On Stranger Tides,2011,popular,"box_office, popular_movies_lists",savant
+753,Pirates of the Caribbean The Curse of the Black Pearl,2003,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+754,Pitch Black,2000,popular,box_office,imsdb
+755,Pitch Perfect,2012,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists, women_directors",slug
+756,Pitch Perfect 2,2015,"fan_favs, popular","best_movies_lists, box_office, women_directors",slug
+757,Pixels,2015,popular,box_office,slug
+758,Planet 51,2009,popular,box_office,savant
+759,Playback,2019,fan_favs,women_directors,simply
+760,Please Give,2010,fan_favs,women_directors,slug
+761,Point Break,2015,popular,box_office,imsdb
+762,Poltergeist,2015,popular,box_office,simply
+763,Poor Things,2023,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+764,Precious,2009,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, journal_list",slug
+765,Predators,2010,popular,box_office,slug
+766,Pride & Prejudice,2005,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists, women_directors",imsdb
+767,Priest,2011,popular,box_office,imsdb
+768,Priscilla,2023,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists, women_directors",slug
+769,Prisoners,2013,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+770,Private Life,2018,"critics, fan_favs","best_movies_lists, journal_list, women_directors",slug
+771,Prom Night,2008,"fan_favs, popular","box_office, women_directors",imsdb
+772,Prometheus,2012,popular,box_office,slug
+773,Promising Young Woman,2020,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list, women_directors",slug
+774,Proof of Life,2000,popular,box_office,slug
+775,Public Enemies,2009,popular,box_office,imsdb
+776,Punch-Drunk Love,2002,"critics, fan_favs","best_movies_lists, filmmakers_choice, journal_list",slug
+777,Puss in Boots: The Last Wish,2022,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list",imsdb
+778,Quartet,2012,popular,box_office,savant
+779,Queen & Slim,2019,"critics, fan_favs","best_movies_lists, filmmakers_choice, women_directors",savant
+780,Queen of the Damned,2002,"fan_favs, popular","best_movies_lists, box_office",imsdb
+781,Quiz Lady,2023,fan_favs,women_directors,imsdb
+782,Rabid,2019,fan_favs,women_directors,simply
+783,Rachel Getting Married,2008,critics,journal_list,imsdb
+784,Rang De Basanti,2006,fan_favs,best_movies_lists,savant
+785,Rango,2011,popular,"box_office, popular_movies_lists",slug
+786,Ratatouille,2007,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists",slug
+787,Raya and the Last Dragon,2021,popular,box_office,slug
+788,Ready Player One,2018,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+789,Reagan,2024,popular,box_office,savant
+790,Red Dragon,2002,"fan_favs, popular","best_movies_lists, box_office",slug
+791,Red Eye,2005,popular,box_office,slug
+792,Red One,2024,popular,box_office,slug
+793,Red Planet,2000,popular,box_office,imsdb
+794,Red Riding Hood,2011,"fan_favs, popular","box_office, women_directors",imsdb
+795,Red Sparrow,2018,popular,box_office,slug
+796,Reign of Fire,2002,popular,box_office,slug
+797,Reindeer Games,2000,popular,box_office,imsdb
+798,Remember Me,2010,popular,box_office,imsdb
+799,Rent,2005,fan_favs,best_movies_lists,slug
+800,Requiem for a Dream,2000,"critics, fan_favs, popular","best_movies_lists, journal_list, popular_movies_lists",slug
+801,Resident Evil,2002,popular,box_office,imsdb
+802,Resident Evil Afterlife,2010,popular,box_office,simply
+803,Resident Evil Extinction,2007,popular,box_office,savant
+804,Respect,2021,popular,box_office,slug
+805,Return to Me,2000,popular,box_office,simply
+806,Revolutionary Road,2008,"critics, popular","box_office, journal_list",slug
+807,Rise of the Guardians,2012,popular,box_office,imsdb
+808,Rise of the Planet of the Apes,2011,popular,"box_office, popular_movies_lists",slug
+809,Road to Perdition,2002,"critics, popular","box_office, journal_list",slug
+810,Robocop,2014,popular,box_office,simply
+811,Rocketman,2019,popular,box_office,slug
+812,Rocks,2019,"critics, fan_favs","best_movies_lists, journal_list, women_directors",savant
+813,Rocky Balboa,2006,popular,box_office,slug
+814,Roma,2018,"critics, fan_favs","award_winners, best_movies_lists, filmmakers_choice, journal_list",slug
+815,Romeo Must Die,2000,"fan_favs, popular","best_movies_lists, box_office",slug
+816,Room,2015,"critics, popular","journal_list, popular_movies_lists",slug
+817,Ruby Sparks,2012,fan_favs,women_directors,slug
+818,Run All Night,2015,popular,box_office,simply
+819,Rush,2013,"critics, popular","box_office, filmmakers_choice",slug
+820,Rush Hour 2,2001,"fan_favs, popular","best_movies_lists, box_office",imsdb
+821,Rust and Bone,2012,"critics, fan_favs","best_movies_lists, journal_list",slug
+822,S.W.A.T.,2003,popular,box_office,simply
+823,Saint Frances,2019,fan_favs,best_movies_lists,slug
+824,Salt,2010,"fan_favs, popular","best_movies_lists, box_office",savant
+825,Saltburn,2023,"critics, fan_favs, popular","best_movies_lists, filmmakers_choice, popular_movies_lists, women_directors",slug
+826,Sanctum,2010,popular,box_office,savant
+827,Sausage Party,2016,popular,box_office,slug
+828,Savages,2012,popular,box_office,savant
+829,Save the Last Dance,2001,popular,box_office,imsdb
+830,Saving Mr. Banks,2013,popular,"box_office, popular_movies_lists",slug
+831,Saw,2004,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+832,Saw IV,2007,popular,box_office,imsdb
+833,Scary Movie,2000,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+834,Scary Movie 2,2001,popular,box_office,slug
+835,Scary Stories to Tell in the Dark,2019,popular,box_office,slug
+836,Scott Pilgrim vs. the World,2010,"critics, fan_favs, popular","best_movies_lists, journal_list, popular_movies_lists, women_directors",slug
+837,Scream,2022,"fan_favs, popular","best_movies_lists, box_office",slug
+838,Scream 3,2000,popular,box_office,imsdb
+839,Scream 4,2011,popular,box_office,imsdb
+840,Searching,2018,popular,box_office,slug
+841,Season of the Witch,2011,popular,box_office,daily
+842,Second Act,2018,popular,box_office,simply
+843,Secondhand Lions,2003,popular,box_office,savant
+844,Secret Window,2004,popular,box_office,slug
+845,Secretariat,2010,popular,box_office,savant
+846,Selma,2014,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, women_directors",slug
+847,Semi-Pro,2008,popular,box_office,imsdb
+848,Serenity,2005,popular,box_office,slug
+849,Sex and the City,2008,"fan_favs, popular","best_movies_lists, box_office, women_directors",imsdb
+850,Shadow of the Vampire,2000,fan_favs,best_movies_lists,simply
+851,Shame,2011,"critics, fan_favs","best_movies_lists, filmmakers_choice, journal_list",slug
+852,Shaun of the Dead,2004,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+853,She Said,2022,fan_favs,women_directors,slug
+854,She's Out of My League,2010,popular,box_office,imsdb
+855,Sherlock Holmes,2009,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+856,Shirley,2020,"critics, fan_favs","journal_list, women_directors",savant
+857,Short Term 12,2013,"critics, fan_favs","best_movies_lists, journal_list",savant
+858,Shrek,2001,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+859,Shrek the Third,2007,popular,"box_office, popular_movies_lists",slug
+860,Shutter Island,2010,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+861,Sicario,2015,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+862,Sideways,2004,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, journal_list",imsdb
+863,Signs,2002,popular,"box_office, popular_movies_lists",slug
+864,Silence,2016,"critics, fan_favs","best_movies_lists, filmmakers_choice, journal_list",slug
+865,Silver Linings Playbook,2012,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists, women_directors",imsdb
+866,Sing,2016,popular,box_office,slug
+867,Sing Sing,2023,"critics, fan_favs","best_movies_lists, filmmakers_choice",slug
+868,Sing Street,2016,"critics, fan_favs","best_movies_lists, filmmakers_choice, journal_list",slug
+869,Skyfall,2012,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+870,Skyline,2010,popular,box_office,savant
+871,Skyscraper,2018,"fan_favs, popular","box_office, women_directors",slug
+872,Slender Man,2018,popular,box_office,slug
+873,Slumdog Millionaire,2008,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, journal_list, popular_movies_lists",imsdb
+874,Smokin' Aces,2007,popular,box_office,imsdb
+875,Snatch,2000,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list",slug
+876,Snow White and the Huntsman,2012,popular,box_office,slug
+877,Snowpiercer,2013,"critics, popular","box_office, filmmakers_choice, journal_list, popular_movies_lists",slug
+878,So Pretty,2019,fan_favs,women_directors,simply
+879,Solaris,2002,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list",slug
+880,Solomon Kane,2009,fan_favs,women_directors,savant
+881,Some Like It Hot,2016,"critics, popular","award_winners, box_office",simply
+882,Something Borrowed,2011,"fan_favs, popular","box_office, women_directors",savant
+883,Something's Gotta Give,2003,"fan_favs, popular","best_movies_lists, box_office, women_directors",imsdb
+884,Somewhere,2010,"critics, fan_favs","award_winners, best_movies_lists, journal_list, women_directors",savant
+885,Son of Saul,2015,"critics, fan_favs","best_movies_lists, journal_list",savant
+886,Sorry to Bother You,2018,"critics, fan_favs","best_movies_lists, filmmakers_choice, journal_list",savant
+887,Soul,2020,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+888,Sound of Metal,2019,"fan_favs, popular","best_movies_lists, popular_movies_lists",slug
+889,Source Code,2011,popular,box_office,imsdb
+890,Space Cowboys,2000,popular,box_office,slug
+891,Spanglish,2004,popular,box_office,imsdb
+892,Spectre,2015,popular,box_office,slug
+893,Speed Racer,2008,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, women_directors",slug
+894,Spencer,2021,"fan_favs, popular","best_movies_lists, box_office, women_directors",slug
+895,Spider-Man,2002,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+896,Spider-Man 2,2004,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+897,Spider-Man: Across the Spider-Verse,2023,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists",slug
+898,Spider-Man: Into the Spider-Verse,2018,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+899,Spider-Man: No Way Home,2021,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+900,Spirit Untamed,2021,popular,box_office,savant
+901,Spirited Away,2001,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists, women_directors",savant
+902,Spotlight,2015,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, journal_list",slug
+903,Spring Breakers,2012,"critics, fan_favs","best_movies_lists, journal_list",savant
+904,Spy Kids,2001,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+905,Star Trek,2009,"critics, popular","box_office, journal_list, popular_movies_lists",slug
+906,Star Trek: Nemesis,2002,popular,box_office,slug
+907,Star Wars: Episode II - Attack of the Clones,2002,popular,box_office,slug
+908,Star Wars: Episode III - Revenge of the Sith,2005,popular,box_office,slug
+909,Star Wars: Episode VII - The Force Awakens,2015,popular,box_office,slug
+910,Star Wars: The Force Awakens,2015,"fan_favs, popular","best_movies_lists, popular_movies_lists",imsdb
+911,Stardust,2007,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists, women_directors",slug
+912,State and Main,2000,fan_favs,best_movies_lists,imsdb
+913,State of Play,2009,popular,box_office,slug
+914,Step Brothers,2008,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+915,Steve Jobs,2015,critics,filmmakers_choice,slug
+916,Stick It,2006,fan_favs,women_directors,savant
+917,Stillwater,2021,popular,box_office,savant
+918,Stoker,2013,fan_favs,best_movies_lists,slug
+919,Straight Outta Compton,2015,"fan_favs, popular","best_movies_lists, box_office",slug
+920,Stranger Than Fiction,2006,"fan_favs, popular","best_movies_lists, box_office",slug
+921,Stuart Little 2,2002,popular,box_office,simply
+922,Subdivision,2009,fan_favs,women_directors,savant
+923,Submarine,2010,fan_favs,"best_movies_lists, women_directors",slug
+924,Suffragette,2015,fan_favs,women_directors,slug
+925,Sugar,2008,fan_favs,women_directors,imsdb
+926,Suicide Squad,2016,popular,"box_office, popular_movies_lists",slug
+927,Sully,2016,"fan_favs, popular","best_movies_lists, box_office",slug
+928,Summer of 84,2018,fan_favs,women_directors,simply
+929,Sunshine Cleaning,2008,fan_favs,women_directors,imsdb
+930,Super 8,2011,popular,"box_office, popular_movies_lists",slug
+931,Superbad,2007,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists",slug
+932,Supergirl,2016,fan_favs,women_directors,imsdb
+933,Superman,2025,popular,"box_office, popular_movies_lists",simply
+934,Surrogates,2009,popular,box_office,slug
+935,Suspiria,2018,"critics, fan_favs","best_movies_lists, filmmakers_choice",slug
+936,Sweeney Todd: The Demon Barber of Fleet Street,2007,"critics, popular","box_office, journal_list",slug
+937,Sweet November,2001,popular,box_office,simply
+938,Swiss Army Man,2016,"fan_favs, popular","best_movies_lists, popular_movies_lists",slug
+939,Swordfish,2001,popular,box_office,imsdb
+940,"Synecdoche, New York",2008,"critics, fan_favs","best_movies_lists, filmmakers_choice, journal_list",slug
+941,Syriana,2005,popular,box_office,imsdb
+942,TMNT,2007,popular,box_office,imsdb
+943,TRON: Legacy,2010,"fan_favs, popular","best_movies_lists, popular_movies_lists",slug
+944,Take Shelter,2011,"critics, fan_favs","best_movies_lists, journal_list",slug
+945,Take This Waltz,2011,fan_favs,women_directors,savant
+946,Taken,2008,popular,box_office,savant
+947,Taking Lives,2004,popular,box_office,imsdb
+948,Talladega Nights: The Ballad of Ricky Bobby,2006,"fan_favs, popular","best_movies_lists, box_office",slug
+949,Tar,2022,critics,journal_list,slug
+950,Team America: World Police,2004,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list",slug
+951,Ted,2012,"critics, popular","box_office, journal_list, popular_movies_lists",slug
+952,Teenage Mutant Ninja Turtles: Mutant Mayhem,2023,popular,box_office,slug
+953,Tenet,2020,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+954,Terminator Genisys,2015,popular,box_office,slug
+955,Terminator Salvation,2009,popular,box_office,slug
+956,The 25th Hour,2002,critics,journal_list,savant
+957,The 40 Year Old Virgin,2005,"critics, popular","journal_list, popular_movies_lists",slug
+958,The A-Team,2010,popular,box_office,slug
+959,The Accountant,2016,"fan_favs, popular","best_movies_lists, box_office",slug
+960,The Addams Family,2019,popular,box_office,imsdb
+961,The Adjustment Bureau,2010,popular,box_office,imsdb
+962,The Adventures of Tintin,2011,"fan_favs, popular","best_movies_lists, box_office",slug
+963,The American,2010,popular,box_office,slug
+964,The Arrival,2017,fan_favs,women_directors,savant
+965,The Artist,2011,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, journal_list",slug
+966,The Avengers,2012,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+967,The Aviator,2004,"critics, popular","award_winners, box_office, journal_list, popular_movies_lists",slug
+968,The BFG,2016,popular,box_office,slug
+969,The Babadook,2014,"critics, fan_favs, popular","best_movies_lists, filmmakers_choice, journal_list, popular_movies_lists, women_directors",slug
+970,The Back-Up Plan,2010,fan_favs,women_directors,imsdb
+971,The Ballad of Buster Scruggs,2018,"critics, popular","filmmakers_choice, popular_movies_lists",slug
+972,The Banshees of Inisherin,2022,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+973,The Batman,2022,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+974,The Beach,2000,popular,box_office,imsdb
+975,The Beach Bum,2019,fan_favs,best_movies_lists,slug
+976,The Beekeeper,2024,popular,box_office,slug
+977,The Beguiled,2017,"critics, fan_favs","filmmakers_choice, women_directors",slug
+978,The Best Exotic Marigold Hotel,2012,popular,box_office,imsdb
+979,The Big Short,2015,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+980,The Big Sick,2017,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list",slug
+981,The Black Dahlia,2006,popular,box_office,imsdb
+982,The Blind Side,2009,"fan_favs, popular","best_movies_lists, box_office",imsdb
+983,The Bling Ring,2013,fan_favs,"best_movies_lists, women_directors",slug
+984,The Book of Eli,2010,"fan_favs, popular","best_movies_lists, box_office",imsdb
+985,The Bounty Hunter,2010,popular,box_office,imsdb
+986,The Bourne Identity,2002,popular,box_office,slug
+987,The Bourne Supremacy,2004,"critics, popular","box_office, journal_list",slug
+988,The Bourne Ultimatum,2007,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list",slug
+989,The Boxtrolls,2014,popular,box_office,slug
+990,The Brave One,2007,popular,box_office,savant
+991,The Brothers Bloom,2008,fan_favs,best_movies_lists,slug
+992,The Brutalist,2024,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+993,The Bucket List,2007,"fan_favs, popular","best_movies_lists, box_office",simply
+994,The Butler,2013,"fan_favs, popular","best_movies_lists, box_office",simply
+995,The Butterfly Effect,2004,"fan_favs, popular","best_movies_lists, box_office",imsdb
+996,The Cell,2000,popular,box_office,imsdb
+997,The Change-Up,2011,popular,box_office,imsdb
+998,The Class,2008,"critics, fan_favs","award_winners, best_movies_lists, journal_list",savant
+999,The Climb,2019,critics,filmmakers_choice,savant
+1000,The Color Purple,2023,popular,box_office,slug
+1001,The Conjuring,2013,popular,"box_office, popular_movies_lists",slug
+1002,The Croods,2013,popular,box_office,imsdb
+1003,The Crow,2024,popular,box_office,imsdb
+1004,The Curious Case of Benjamin Button,2008,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+1005,The Danish Girl,2015,popular,box_office,slug
+1006,The Darjeeling Limited,2007,critics,journal_list,savant
+1007,The Dark Knight,2008,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists",slug
+1008,The Dark Knight Rises,2012,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, popular_movies_lists",slug
+1009,The Dark Tower,2017,popular,box_office,savant
+1010,The Day After,2017,critics,journal_list,simply
+1011,The Day the Earth Stood Still,2008,popular,box_office,imsdb
+1012,The Death of Stalin,2017,fan_favs,best_movies_lists,savant
+1013,The Debt,2011,popular,box_office,imsdb
+1014,The Departed,2006,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+1015,The Descendants,2011,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, journal_list",slug
+1016,The Descent,2005,"critics, popular","box_office, filmmakers_choice, journal_list",slug
+1017,The Devil Wears Prada,2006,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists, women_directors",slug
+1018,The Diary of a Teenage Girl,2015,"critics, fan_favs","journal_list, women_directors",savant
+1019,The Disaster Artist,2017,popular,popular_movies_lists,slug
+1020,The Diving Bell and the Butterfly,2007,"critics, fan_favs","best_movies_lists, journal_list",simply
+1021,The Duchess,2008,popular,box_office,savant
+1022,The Edge of Seventeen,2016,"fan_favs, popular","best_movies_lists, popular_movies_lists, women_directors",slug
+1023,The End of the Tour,2015,critics,filmmakers_choice,simply
+1024,The Expendables,2010,popular,box_office,slug
+1025,The Fabelmans,2022,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, filmmakers_choice, journal_list",slug
+1026,The Family Man,2000,popular,box_office,imsdb
+1027,The Farewell,2019,"critics, fan_favs","award_winners, best_movies_lists, filmmakers_choice, journal_list, women_directors",slug
+1028,The Fast and the Furious,2001,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+1029,The Father,2020,"fan_favs, popular","best_movies_lists, box_office, women_directors",slug
+1030,The Fault in Our Stars,2014,popular,"box_office, popular_movies_lists",slug
+1031,The Favourite,2018,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists, women_directors",slug
+1032,The Fighter,2009,"fan_favs, popular","best_movies_lists, box_office",imsdb
+1033,The Florida Project,2017,"critics, fan_favs, popular","best_movies_lists, filmmakers_choice, journal_list, popular_movies_lists, women_directors",slug
+1034,The Fog,2005,popular,box_office,savant
+1035,The Fountain,2006,"critics, fan_favs","best_movies_lists, journal_list",savant
+1036,The Fourth Kind,2009,popular,box_office,slug
+1037,The French Dispatch,2021,"critics, popular","box_office, filmmakers_choice, popular_movies_lists",slug
+1038,The Gentlemen,2019,popular,box_office,slug
+1039,The Gift,2000,popular,box_office,simply
+1040,The Girl on the Train,2016,popular,box_office,slug
+1041,The Girl with the Dragon Tattoo,2009,"fan_favs, popular","best_movies_lists, box_office",imsdb
+1042,The Giver,2014,popular,box_office,savant
+1043,The Good Dinosaur,2015,popular,box_office,slug
+1044,The Graduate,2007,fan_favs,women_directors,simply
+1045,The Grand Budapest Hotel,2014,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists",slug
+1046,The Great Gatsby,2013,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",imsdb
+1047,The Greatest Showman,2017,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+1048,The Grudge,2004,popular,box_office,slug
+1049,The Guest,2013,fan_favs,women_directors,savant
+1050,The Half of It,2020,fan_favs,women_directors,daily
+1051,The Hangover,2009,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, popular_movies_lists",slug
+1052,The Happening,2008,popular,box_office,savant
+1053,The Harder They Fall,2021,fan_favs,best_movies_lists,slug
+1054,The Hate U Give,2018,fan_favs,women_directors,slug
+1055,The Hateful Eight,2015,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists",slug
+1056,The Haunted Mansion,2003,popular,box_office,slug
+1057,The Haunting of Hill House,2018,fan_favs,best_movies_lists,daily
+1058,The Help,2011,popular,box_office,slug
+1059,The Hills Have Eyes,2006,popular,box_office,imsdb
+1060,The Hitchhiker's Guide to the Galaxy,2005,popular,"box_office, popular_movies_lists",imsdb
+1061,The Holdovers,2023,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+1062,The Holiday,2006,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists, women_directors",slug
+1063,The Hours,2002,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, journal_list",slug
+1064,The House Bunny,2008,"fan_favs, popular","best_movies_lists, box_office, women_directors",savant
+1065,The Hunger Games,2012,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+1066,The Hunger Games: Catching Fire,2013,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+1067,The Hurt Locker,2008,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, filmmakers_choice, journal_list, women_directors",slug
+1068,The Ides of March,2011,popular,box_office,imsdb
+1069,The Imaginarium of Doctor Parnassus,2009,popular,box_office,slug
+1070,The Imitation Game,2014,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+1071,The Incredible Hulk,2008,popular,"box_office, popular_movies_lists",slug
+1072,The Incredibles,2004,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+1073,The Informant!,2009,popular,box_office,slug
+1074,The Intern,2015,"fan_favs, popular","box_office, women_directors",simply
+1075,The Internship,2013,popular,box_office,slug
+1076,The Interpreter,2005,popular,box_office,slug
+1077,The Interview,2014,popular,popular_movies_lists,slug
+1078,The Invitation,2022,"fan_favs, popular","best_movies_lists, box_office, women_directors",simply
+1079,The Irishman,2019,"critics, popular","filmmakers_choice, journal_list, popular_movies_lists",slug
+1080,The Iron Claw,2023,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+1081,The Iron Lady,2011,"fan_favs, popular","box_office, women_directors",imsdb
+1082,The Island,2005,"critics, fan_favs, popular","box_office, journal_list, women_directors",imsdb
+1083,The Italian Job,2003,"fan_favs, popular","best_movies_lists, box_office",imsdb
+1084,The Karate Kid,2010,popular,"box_office, popular_movies_lists",savant
+1085,The Kids Are All Right,2010,"critics, fan_favs","filmmakers_choice, journal_list, women_directors",slug
+1086,The Killer,2023,critics,filmmakers_choice,slug
+1087,The Killing of a Sacred Deer,2017,"critics, fan_favs, popular","best_movies_lists, filmmakers_choice, journal_list, popular_movies_lists",slug
+1088,The King's Speech,2010,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, journal_list",imsdb
+1089,The Kingdom,2007,popular,box_office,imsdb
+1090,The LEGO Movie,2014,critics,journal_list,slug
+1091,The Ladykillers,2004,popular,box_office,imsdb
+1092,The Lake House,2006,"fan_favs, popular","box_office, women_directors",simply
+1093,The Last Black Man in San Francisco,2019,"critics, fan_favs","best_movies_lists, journal_list",savant
+1094,The Last Castle,2001,popular,box_office,slug
+1095,The Last House on the Left,2009,popular,box_office,simply
+1096,The Last Samurai,2003,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",imsdb
+1097,The Legend of Zorro,2005,popular,box_office,slug
+1098,The Lego Movie,2014,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+1099,The Life Aquatic with Steve Zissou,2004,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list",simply
+1100,The Life of David Gale,2003,popular,box_office,imsdb
+1101,The Lighthouse,2019,"critics, fan_favs, popular","best_movies_lists, filmmakers_choice, journal_list, popular_movies_lists, women_directors",slug
+1102,The Lincoln Lawyer,2011,popular,box_office,slug
+1103,The Lion King,2019,popular,"box_office, popular_movies_lists",simply
+1104,The Little Mermaid,2023,"fan_favs, popular","box_office, women_directors",imsdb
+1105,The Little Things,2021,popular,box_office,savant
+1106,The Lobster,2015,"critics, fan_favs, popular","best_movies_lists, filmmakers_choice, journal_list, popular_movies_lists",slug
+1107,The Lone Ranger,2013,"fan_favs, popular","best_movies_lists, box_office",slug
+1108,The Lorax,2012,"fan_favs, popular","best_movies_lists, box_office",slug
+1109,The Lord of the Rings: The Fellowship of the Ring,2001,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+1110,The Lord of the Rings: The Return of the King,2003,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+1111,The Lord of the Rings: The Two Towers,2002,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+1112,The Lost City of Z,2016,critics,journal_list,simply
+1113,The Lost Daughter,2021,"critics, fan_favs","award_winners, best_movies_lists, women_directors",slug
+1114,The Lovely Bones,2009,popular,box_office,simply
+1115,The Lunchbox,2013,fan_favs,best_movies_lists,slug
+1116,The Majestic,2001,popular,box_office,slug
+1117,The Man Who Wasn't There,2001,critics,"filmmakers_choice, journal_list",imsdb
+1118,The Manchurian Candidate,2004,popular,box_office,slug
+1119,The Martian,2015,popular,"box_office, popular_movies_lists",slug
+1120,The Master,2012,"critics, fan_favs","best_movies_lists, filmmakers_choice, journal_list",slug
+1121,The Matrix Reloaded,2003,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists, women_directors",slug
+1122,The Matrix Revolutions,2003,"fan_favs, popular","best_movies_lists, box_office, women_directors",slug
+1123,The Maze Runner,2014,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+1124,The Mechanic,2011,popular,box_office,imsdb
+1125,The Meddler,2015,fan_favs,women_directors,simply
+1126,The Meg,2018,popular,box_office,slug
+1127,The Men Who Stare at Goats,2009,popular,box_office,slug
+1128,The Menu,2022,"critics, popular","box_office, filmmakers_choice, popular_movies_lists",slug
+1129,The Messenger,2015,fan_favs,women_directors,simply
+1130,The Meyerowitz Stories (New and Selected),2017,critics,filmmakers_choice,simply
+1131,The Mist,2007,"critics, popular","box_office, journal_list, popular_movies_lists",simply
+1132,The Mitchells vs. the Machines,2021,"critics, fan_favs","best_movies_lists, filmmakers_choice",slug
+1133,The Mothman Prophecies,2002,popular,box_office,simply
+1134,The Mummy Returns,2001,popular,"box_office, popular_movies_lists",slug
+1135,The Mummy: Tomb of the Dragon Emperor,2008,popular,box_office,slug
+1136,The Muppets,2011,popular,box_office,savant
+1137,The Neon Demon,2016,fan_favs,best_movies_lists,slug
+1138,The New World,2005,"critics, fan_favs","best_movies_lists, filmmakers_choice, journal_list",simply
+1139,The Next Three Days,2010,popular,box_office,imsdb
+1140,The Nice Guys,2016,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, popular_movies_lists",slug
+1141,The Ninth Gate,2000,popular,box_office,imsdb
+1142,The Northman,2022,popular,"box_office, popular_movies_lists",slug
+1143,The Number 23,2007,popular,box_office,simply
+1144,The Nun,2018,popular,box_office,slug
+1145,The Omen,2006,popular,box_office,simply
+1146,The Other Boleyn Girl,2008,"fan_favs, popular","box_office, women_directors",imsdb
+1147,The Other Guys,2010,"fan_favs, popular","best_movies_lists, box_office",slug
+1148,The Other Side of the Wind,2018,critics,journal_list,slug
+1149,The Others,2001,"critics, popular","box_office, filmmakers_choice, journal_list",slug
+1150,The Outrun,2024,fan_favs,"best_movies_lists, women_directors",slug
+1151,The Pacifier,2005,popular,box_office,imsdb
+1152,The Passion of the Christ,2004,"critics, popular","box_office, journal_list",slug
+1153,The Patriot,2000,"fan_favs, popular","best_movies_lists, box_office",imsdb
+1154,The Peanut Butter Falcon,2019,fan_favs,best_movies_lists,slug
+1155,The Perfect Storm,2000,popular,box_office,slug
+1156,The Perks of Being a Wallflower,2012,"fan_favs, popular","best_movies_lists, popular_movies_lists",slug
+1157,The Persian Version,2023,fan_favs,women_directors,slug
+1158,The Personal History of David Copperfield,2020,popular,box_office,savant
+1159,The Phantom of the Opera,2004,"fan_favs, popular","best_movies_lists, box_office",savant
+1160,The Pianist,2002,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, journal_list, popular_movies_lists",imsdb
+1161,The Place Beyond the Pines,2012,"critics, fan_favs","best_movies_lists, filmmakers_choice",slug
+1162,The Post,2017,popular,box_office,slug
+1163,The Power of the Dog,2021,"critics, fan_favs","award_winners, best_movies_lists, journal_list, women_directors",slug
+1164,The Predator,2018,popular,"box_office, popular_movies_lists",slug
+1165,The Prestige,2006,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists",slug
+1166,The Producers,2005,popular,box_office,simply
+1167,The Proposal,2009,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists, women_directors",slug
+1168,The Punisher,2004,popular,box_office,savant
+1169,The Purge,2013,popular,"box_office, popular_movies_lists",slug
+1170,The Pursuit of Happyness,2006,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+1171,The Queen,2006,"critics, fan_favs, popular","award_winners, box_office, journal_list, women_directors",imsdb
+1172,The Reader,2008,popular,box_office,imsdb
+1173,The Red Turtle,2016,critics,filmmakers_choice,slug
+1174,The Replacements,2000,popular,box_office,imsdb
+1175,The Revenant,2015,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+1176,The Rider,2017,"critics, fan_favs","best_movies_lists, filmmakers_choice, journal_list, women_directors",simply
+1177,The Ring,2002,"critics, popular","box_office, journal_list",slug
+1178,The Ringer,2005,popular,box_office,simply
+1179,The Rookie,2002,popular,box_office,slug
+1180,The Room,2003,"fan_favs, popular","best_movies_lists, popular_movies_lists",simply
+1181,The Room Next Door,2024,"critics, fan_favs","award_winners, best_movies_lists",slug
+1182,The Royal Tenenbaums,2001,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists, women_directors",slug
+1183,The Savages,2007,fan_favs,women_directors,slug
+1184,The Secret Life of Pets,2016,"fan_favs, popular","best_movies_lists, box_office",slug
+1185,The Secret Life of Walter Mitty,2013,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+1186,The Shape of Water,2017,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists",slug
+1187,The Shipping News,2001,popular,box_office,imsdb
+1188,The Skeleton Key,2005,popular,box_office,slug
+1189,The Smurfs,2011,popular,box_office,savant
+1190,The Social Network,2010,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+1191,The Son,2002,"critics, fan_favs","best_movies_lists, journal_list",savant
+1192,The Sorcerer's Apprentice,2010,popular,box_office,savant
+1193,The Spectacular Now,2013,fan_favs,best_movies_lists,savant
+1194,The Spy Who Dumped Me,2018,"fan_favs, popular","box_office, women_directors",slug
+1195,The Squid and the Whale,2005,"critics, fan_favs","best_movies_lists, journal_list",slug
+1196,The Substance,2024,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists, women_directors",slug
+1197,The Theory of Everything,2014,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",imsdb
+1198,The Three Musketeers,2011,popular,box_office,imsdb
+1199,The Time Machine,2002,popular,box_office,imsdb
+1200,The Tourist,2010,popular,box_office,imsdb
+1201,The Town,2010,popular,box_office,slug
+1202,The Tragedy of Macbeth,2021,critics,filmmakers_choice,slug
+1203,The Tree of Life,2011,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, filmmakers_choice, journal_list",slug
+1204,The Twilight Saga Eclipse,2010,"critics, popular","box_office, filmmakers_choice, popular_movies_lists",simply
+1205,The Twilight Saga New Moon,2009,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, popular_movies_lists",simply
+1206,The Ugly Truth,2009,"fan_favs, popular","box_office, women_directors",imsdb
+1207,The Unborn,2009,popular,box_office,slug
+1208,The Village,2003,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list",savant
+1209,The Visitor,2007,critics,filmmakers_choice,imsdb
+1210,The Way Back,2020,popular,box_office,slug
+1211,The Way Way Back,2013,fan_favs,best_movies_lists,savant
+1212,The Wedding Date,2005,"fan_favs, popular","box_office, women_directors",savant
+1213,The Whale,2022,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+1214,The White Ribbon,2009,"critics, fan_favs","award_winners, best_movies_lists, journal_list",slug
+1215,The White Tiger,2021,critics,filmmakers_choice,slug
+1216,The Wild Robot,2024,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list",slug
+1217,The Witch,2015,"critics, fan_favs, popular","best_movies_lists, filmmakers_choice, journal_list, popular_movies_lists",savant
+1218,The Wolf of Wall Street,2013,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+1219,The Wolfman,2010,popular,box_office,savant
+1220,The Wolverine,2013,popular,box_office,slug
+1221,The Woman King,2022,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, women_directors",slug
+1222,The Woodsman,2004,fan_favs,women_directors,imsdb
+1223,The World's End,2013,fan_favs,best_movies_lists,simply
+1224,The Wrestler,2008,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, journal_list",imsdb
+1225,The Zone of Interest,2023,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list",slug
+1226,There Will Be Blood,2007,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists",slug
+1227,They,2017,fan_favs,women_directors,imsdb
+1228,Thir13en Ghosts,2001,popular,box_office,slug
+1229,Thirteen,2003,fan_favs,"best_movies_lists, women_directors",slug
+1230,Thirteen Days,2000,popular,box_office,imsdb
+1231,This Is 40,2012,popular,box_office,slug
+1232,This Means War,2012,popular,box_office,savant
+1233,Thor,2011,popular,"box_office, popular_movies_lists",slug
+1234,Thor: Ragnarok,2017,popular,"box_office, popular_movies_lists",slug
+1235,"Three Billboards Outside Ebbing, Missouri",2017,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, popular_movies_lists",slug
+1236,Three Thousand Years of Longing,2022,popular,box_office,slug
+1237,Thunderbirds,2014,fan_favs,women_directors,imsdb
+1238,Timeline,2003,popular,box_office,simply
+1239,Tinker Tailor Soldier Spy,2011,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list",slug
+1240,To Rome with Love,2012,"critics, popular","box_office, filmmakers_choice",savant
+1241,Together,2025,"critics, popular","box_office, journal_list",savant
+1242,Tomb Raider,2018,popular,box_office,savant
+1243,Toni Erdmann,2016,"critics, fan_favs","best_movies_lists, journal_list, women_directors",slug
+1244,Top Gun: Maverick,2022,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+1245,Total Recall,2012,"fan_favs, popular","best_movies_lists, box_office",imsdb
+1246,Tower Heist,2011,popular,box_office,savant
+1247,Toy Story 3,2010,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+1248,Toy Story 4,2019,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+1249,Traffic,2000,"critics, popular","box_office, journal_list",imsdb
+1250,Training Day,2001,"fan_favs, popular","best_movies_lists, box_office",slug
+1251,Trainwreck,2015,popular,box_office,slug
+1252,Trance,2006,fan_favs,women_directors,savant
+1253,Transcendence,2014,popular,box_office,slug
+1254,Transformers,2007,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+1255,Triangle of Sadness,2022,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, journal_list",slug
+1256,Trick 'r Treat,2007,popular,popular_movies_lists,slug
+1257,Tron: Legacy,2010,popular,box_office,slug
+1258,Tropic Thunder,2008,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",imsdb
+1259,Trouble with the Curve,2012,popular,box_office,savant
+1260,Troy,2004,"fan_favs, popular","best_movies_lists, box_office",simply
+1261,True Grit,2010,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list",slug
+1262,Twilight,2008,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, popular_movies_lists, women_directors",slug
+1263,Unbreakable,2000,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists",slug
+1264,Unbroken,2014,"fan_favs, popular","box_office, women_directors",simply
+1265,Uncut Gems,2019,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists",savant
+1266,Under the Silver Lake,2018,"critics, fan_favs","best_movies_lists, filmmakers_choice",slug
+1267,Underwater,2020,popular,box_office,slug
+1268,Underworld,2003,"fan_favs, popular","best_movies_lists, box_office",slug
+1269,Unfaithful,2002,popular,box_office,savant
+1270,Unknown,2011,popular,box_office,imsdb
+1271,Unstoppable,2010,popular,box_office,savant
+1272,Untraceable,2008,popular,box_office,simply
+1273,Up,2009,"critics, fan_favs, popular","best_movies_lists, box_office, journal_list, popular_movies_lists",slug
+1274,Up in the Air,2009,"fan_favs, popular","box_office, women_directors",slug
+1275,Upstream Color,2013,"critics, fan_favs","best_movies_lists, journal_list",slug
+1276,Us,2019,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists",slug
+1277,V for Vendetta,2005,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",imsdb
+1278,Vacation,2015,popular,box_office,slug
+1279,Valentine,2001,popular,box_office,savant
+1280,Valentine's Day,2010,"fan_favs, popular","box_office, women_directors",savant
+1281,Valkyrie,2008,popular,box_office,imsdb
+1282,Van Helsing,2004,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+1283,Vanilla Sky,2001,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+1284,Vantage Point,2008,popular,box_office,simply
+1285,Vice,2018,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+1286,Vicky Cristina Barcelona,2008,"critics, popular","box_office, journal_list",simply
+1287,Victoria & Abdul,2017,popular,box_office,slug
+1288,Vox Lux,2018,fan_favs,best_movies_lists,slug
+1289,WALL-E,2008,critics,journal_list,slug
+1290,Wadjda,2012,"critics, fan_favs","best_movies_lists, journal_list, women_directors",slug
+1291,Walk Hard: The Dewey Cox Story,2007,fan_favs,best_movies_lists,slug
+1292,Walking Tall,2004,popular,box_office,imsdb
+1293,Wall Street: Money Never Sleeps,2010,popular,box_office,imsdb
+1294,Wanted,2008,popular,box_office,slug
+1295,War,2007,popular,box_office,savant
+1296,War Horse,2011,"fan_favs, popular","best_movies_lists, box_office",imsdb
+1297,War for the Planet of the Apes,2017,popular,box_office,slug
+1298,War of the Worlds,2005,"critics, popular","box_office, journal_list, popular_movies_lists",slug
+1299,Warcraft,2016,popular,box_office,savant
+1300,Warrior,2011,fan_favs,best_movies_lists,slug
+1301,Watchmen,2009,popular,box_office,slug
+1302,Water for Elephants,2011,popular,box_office,imsdb
+1303,Waves,2019,"fan_favs, popular","best_movies_lists, popular_movies_lists",slug
+1304,We Bought a Zoo,2011,popular,box_office,savant
+1305,We Need to Talk About Kevin,2011,"critics, fan_favs","best_movies_lists, journal_list, women_directors",slug
+1306,We Own the Night,2007,"critics, popular","box_office, journal_list",imsdb
+1307,We Were Soldiers,2002,popular,box_office,savant
+1308,Wedding Crashers,2005,"fan_favs, popular","best_movies_lists, box_office",slug
+1309,West Side Story,2021,"critics, fan_favs, popular","award_winners, best_movies_lists, box_office, filmmakers_choice, women_directors",slug
+1310,What Lies Beneath,2000,popular,box_office,slug
+1311,What They Had,2018,fan_favs,women_directors,slug
+1312,What Women Want,2000,popular,box_office,savant
+1313,What to Expect When You're Expecting,2012,popular,box_office,simply
+1314,When a Stranger Calls,2006,popular,box_office,imsdb
+1315,Where the Wild Things Are,2009,"fan_favs, popular","best_movies_lists, box_office",slug
+1316,Whip It,2009,fan_favs,women_directors,savant
+1317,Whiplash,2014,"critics, fan_favs, popular","best_movies_lists, journal_list, popular_movies_lists",slug
+1318,White House Down,2013,popular,box_office,savant
+1319,White Noise,2005,popular,box_office,savant
+1320,Whitney Houston: I Wanna Dance with Somebody,2022,popular,box_office,slug
+1321,Wicked,2024,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+1322,Wild,2016,"critics, fan_favs","filmmakers_choice, women_directors",savant
+1323,Wild Hogs,2007,popular,box_office,imsdb
+1324,Wild Tales,2014,fan_favs,best_movies_lists,savant
+1325,Wind River,2017,critics,filmmakers_choice,slug
+1326,Winter's Bone,2010,"critics, fan_favs","journal_list, women_directors",simply
+1327,Woman in Gold,2015,popular,box_office,slug
+1328,Women Talking,2022,"critics, fan_favs","journal_list, women_directors",slug
+1329,Wonder Boys,2000,"critics, popular","box_office, journal_list",slug
+1330,Wonder Woman,2017,"critics, fan_favs, popular","box_office, filmmakers_choice, journal_list, popular_movies_lists, women_directors",slug
+1331,Wonka,2023,popular,"box_office, popular_movies_lists",slug
+1332,Work It,2020,fan_favs,"best_movies_lists, women_directors",slug
+1333,World War Z,2013,popular,"box_office, popular_movies_lists",savant
+1334,X-Men,2000,"fan_favs, popular","best_movies_lists, box_office, popular_movies_lists",slug
+1335,X-Men Origins: Wolverine,2009,popular,box_office,imsdb
+1336,X-Men: Days of Future Past,2014,popular,"box_office, popular_movies_lists",slug
+1337,X2: X-Men United,2003,popular,box_office,slug
+1338,Year One,2009,popular,box_office,imsdb
+1339,Yes Man,2008,popular,"box_office, popular_movies_lists",imsdb
+1340,You Again,2010,fan_favs,women_directors,savant
+1341,You Can Count on Me,2000,critics,journal_list,imsdb
+1342,You Were Never Really Here,2017,"critics, fan_favs","best_movies_lists, filmmakers_choice, journal_list, women_directors",slug
+1343,Youth,2017,"critics, popular","box_office, journal_list",simply
+1344,Zathura: A Space Adventure,2005,popular,box_office,slug
+1345,Zero Dark Thirty,2012,"critics, fan_favs, popular","box_office, journal_list, women_directors",slug
+1346,Zodiac,2007,"critics, fan_favs, popular","best_movies_lists, box_office, filmmakers_choice, journal_list, popular_movies_lists",slug
+1347,Zombieland,2009,popular,"box_office, popular_movies_lists",slug
+1348,Zombieland: Double Tap,2019,popular,"box_office, popular_movies_lists",slug
+1349,Zookeeper,2011,popular,box_office,savant
+1350,Zootopia,2016,"critics, popular","box_office, journal_list, popular_movies_lists",slug
+1351,mid90s,2018,"fan_favs, popular","best_movies_lists, popular_movies_lists",slug
+1352,mother!,2017,"fan_favs, popular","best_movies_lists, popular_movies_lists",slug
+1353,"tick, tick... BOOM!",2021,"fan_favs, popular","best_movies_lists, popular_movies_lists",slug
+1354,xXx,2002,popular,box_office,slug
