@@ -41,7 +41,7 @@ Only movies released in the 21st century were considered.
   - character names (to link with screenplay data)
   - character gender (when available)
  
-## 🧹 Data Collection & Preprocessing
+## Data Collection & Preprocessing
 
 ### Screenplay Processing
 - PDF scripts were parsed using text extraction
