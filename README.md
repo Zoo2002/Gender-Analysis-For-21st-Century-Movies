@@ -72,7 +72,7 @@ emotion categories including *Anger, Fear, Joy, Love, Sadness,* and *Surprise*.
 However, the results across models were inconsistent and visibly unreliable. 
 As a result, emotion-level analysis was excluded from the final report.
 
-## Analysis
+## Datasets analysis
 The analysis includes:
 - director gender distribution
 - number of main characters, dialogue volume, and word count by gender
@@ -81,7 +81,7 @@ The analysis includes:
 - gender distribution of characters by actors’ age
 - sentiment distribution across genders
 
-## Key Findings (Summary)
+## Key Findings
 - Male characters dominate dialogue volume across most years
 - Female dialogue share increases slightly over time but remains lower overall
 - Genre moderately influences gender representation
