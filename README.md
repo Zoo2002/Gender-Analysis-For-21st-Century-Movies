@@ -40,3 +40,52 @@ Only movies released in the 21st century were considered.
   - cast list with gender and age
   - character names (to link with screenplay data)
   - character gender (when available)
+ 
+## 🧹 Data Collection & Preprocessing
+
+### Screenplay Processing
+- PDF scripts were parsed using text extraction
+- Elements were identified based on:
+  - text indentation
+  - capitalization patterns
+  - script layout structure
+- Character names were extracted
+- Dialogues were assigned to characters
+
+### Data Integration
+- Screenplay data was matched with TMDB metadata
+- Characters were linked to movies and cast information
+- The final data was organized into two datasets:
+  - a movie-level dataset containing film metadata
+  - a character-level dataset containing dialogue and character information
+
+## Sentiment Analysis
+- Sentiment analysis was performed on individual dialogue lines
+- Model used:
+  - `cardiffnlp/twitter-roberta-base-sentiment-latest`
+- For each dialogue:
+  - sentiment label (positive / neutral / negative)
+  - model confidence score was stored
+
+In addition, emotion classification was explored using multiple models with
+emotion categories including *Anger, Fear, Joy, Love, Sadness,* and *Surprise*.
+However, the results across models were inconsistent and visibly unreliable. 
+As a result, emotion-level analysis was excluded from the final report.
+
+## Analysis
+The analysis includes:
+- director gender distribution
+- number of main characters, dialogue volume, and word count by gender
+- yearly gender shares of characters
+- genre-based gender distribution
+- gender distribution of characters by actors’ age
+- sentiment distribution across genders
+
+## Key Findings (Summary)
+- Male characters dominate dialogue volume across most years
+- Female dialogue share increases slightly over time but remains lower overall
+- Genre moderately influences gender representation
+- Sentiment distributions show subtle gender differences
+
+
+
