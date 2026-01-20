@@ -82,10 +82,15 @@ The analysis includes:
 - sentiment distribution across genders
 
 ## Key Findings
-- Male characters dominate dialogue volume across most years
-- Female dialogue share increases slightly over time but remains lower overall
-- Genre moderately influences gender representation
-- Sentiment distributions show subtle gender differences
+- Films created by men are more popular than films created by women, which influences the access to movie screenplays, resulting in the dominance of male-directed films in the dataset.
+- Films made by men more often receive very high production budgets compared to films made by women
+- Films created by men show, on average, a greater gender imbalance among characters (about 67% male characters to 33% female), whereas in films made by women the gender distribution of characters is, on average, balanced (50% male and 50% female characters).
+- Both male and female directors tend to cast their own gender more often in the leading role (76% of male directors cast a man as the protagonist, while 72% of female directors cast a woman as the protagonist).
+- An analysis of the proportion of characters and dialogue lines over time (for the entire film set, without grouping by director gender) shows a decreasing trend in gender imbalance across the years; nevertheless, male characters still dominate dialogue in films.
+- The largest gender disparities, with strong male dominance, are observed in war films, westerns, and documentaries, while the smallest disparities are seen in comedies, romances, and horror films.
+- Male actors have a higher median age (41 for men vs. 34 for women) and a much wider upper age range.
+- No significant differences are observed between women and men in the overall sentiment of dialogues.
+- The gender of the director or the gender of the main character did not significantly influence audience reception of the analyzed films (based on average film ratings).
 
 
 
